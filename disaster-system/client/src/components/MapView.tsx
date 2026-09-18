@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useContext, useEffect, useMemo, useRef, useState } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import type { MapCamp, MapPoint, MapSos } from '../lib/api';
 import { SEVERITY_COLORS, STATUS_COLORS, hexAlpha } from '../lib/charts';
+import { ThemeContext } from './ChartView';
 import { fmtNumber } from '../lib/format';
 
 interface Props {
@@ -15,6 +16,18 @@ interface Props {
 
 const severityColor = (s: string) => SEVERITY_COLORS[s] || '#94a3b8';
 
+/** Basemap follows the active theme so the map matches the dashboard. */
+const TILES: Record<'dark' | 'light', { url: string; attribution: string }> = {
+  dark: {
+    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+  },
+  light: {
+    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    attribution: '&copy; OpenStreetMap contributors',
+  },
+};
+
 /**
  * Interactive Leaflet map: disaster locations coloured by severity and sized by
  * affected population, with optional relief-camp and SOS layers.
@@ -23,6 +36,8 @@ export default function MapView({ points, camps = [], sos = [], height = 460, sh
   const holderRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<L.Map | null>(null);
   const layersRef = useRef<{ disasters?: L.LayerGroup; camps?: L.LayerGroup; sos?: L.LayerGroup }>({});
+  const tilesRef = useRef<L.TileLayer | null>(null);
+  const theme = useContext(ThemeContext);
   const [tilesOk, setTilesOk] = useState(true);
   const [visible, setVisible] = useState({ disasters: true, camps: true, sos: false });
 
@@ -39,12 +54,6 @@ export default function MapView({ points, camps = [], sos = [], height = 460, sh
       preferCanvas: true,
       worldCopyJump: true,
     });
-    const tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 18,
-      attribution: '&copy; OpenStreetMap contributors',
-    });
-    tiles.on('tileerror', () => setTilesOk(false));
-    tiles.addTo(map);
     mapRef.current = map;
     layersRef.current.disasters = L.layerGroup().addTo(map);
     layersRef.current.camps = L.layerGroup().addTo(map);
@@ -54,6 +63,23 @@ export default function MapView({ points, camps = [], sos = [], height = 460, sh
       mapRef.current = null;
     };
   }, []);
+
+  // basemap follows the theme
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map) return;
+    if (tilesRef.current) {
+      map.removeLayer(tilesRef.current);
+      tilesRef.current = null;
+    }
+    setTilesOk(true);
+    const cfg = TILES[theme] || TILES.dark;
+    const tiles = L.tileLayer(cfg.url, { maxZoom: 18, attribution: cfg.attribution });
+    tiles.on('tileerror', () => setTilesOk(false));
+    tiles.addTo(map);
+    tiles.bringToBack();
+    tilesRef.current = tiles;
+  }, [theme]);
 
   // disaster markers
   useEffect(() => {

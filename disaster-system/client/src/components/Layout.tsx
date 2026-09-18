@@ -12,11 +12,11 @@ interface Props {
 
 export default function Layout({ title, subtitle, children, actions }: Props) {
   const [open, setOpen] = useState(false);
-  const { theme, toggle } = useTheme();
+  const { theme, appliedTheme, toggle } = useTheme();
   const current = NAV.find((n) => n.to === (window.location.pathname === '/' ? '/' : `/${window.location.pathname.split('/')[1]}`));
 
   return (
-    <ThemeContext.Provider value={theme}>
+    <ThemeContext.Provider value={appliedTheme}>
       <div className="app">
         <Sidebar open={open} onNavigate={() => setOpen(false)} />
         <div className="main">

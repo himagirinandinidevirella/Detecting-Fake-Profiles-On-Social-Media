@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# build output (rebuilt with `npm run build`)
+server/public/
+
+# runtime database and WAL files
+server/data/
+
+# logs
+*.log
+npm-debug.log*

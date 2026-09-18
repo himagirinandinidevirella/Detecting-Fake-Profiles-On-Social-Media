@@ -1,0 +1,261 @@
+Disaster,Location,Region,Date,Severity,Affected_People,Casualties,Displaced,Status
+Cold Wave,"Kullu, Himachal Pradesh",North India,2025-01-04,Moderate,38947,4,6136,Resolved
+Earthquake,"Cooch Behar, West Bengal",East India,2025-01-04,Moderate,32168,2,3291,Resolved
+Cold Wave,"Pasighat, Arunachal Pradesh",Northeast India,2025-01-06,Moderate,19378,3,2868,Resolved
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-06,Moderate,47135,6,8852,Resolved
+Cold Wave,"Korba, Chhattisgarh",Central India,2025-01-12,Low,14408,0,3842,Resolved
+Cold Wave,"Silchar, Assam",Northeast India,2025-01-17,Moderate,35456,2,9520,Resolved
+Cold Wave,"Jammu, Jammu & Kashmir",North India,2025-01-17,Moderate,34574,4,10186,Resolved
+Cold Wave,"Patiala, Punjab",North India,2025-01-20,Moderate,24454,1,6733,Resolved
+Cold Wave,"Bhubaneswar, Odisha",East India,2025-01-20,Moderate,40229,2,4700,Resolved
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2025-01-21,Low,13716,0,4058,Resolved
+Cold Wave,"Namchi, Sikkim",Northeast India,2025-01-22,Moderate,15028,2,2523,Resolved
+Cold Wave,"Jodhpur, Rajasthan",North India,2025-01-24,Moderate,36676,3,6253,Resolved
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-01-26,Low,8683,0,2095,Resolved
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2025-02-01,High,110225,25,28158,Resolved
+Cold Wave,"Jowai, Meghalaya",Northeast India,2025-02-01,Moderate,49270,7,14806,Resolved
+Cold Wave,"Bilaspur, Chhattisgarh",Central India,2025-02-02,Moderate,30230,3,7506,Resolved
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-05,Critical,147456,181,15838,Resolved
+Drought,"Thrissur, Kerala",South India,2025-02-06,High,85658,47,23660,Resolved
+Drought,"Varanasi, Uttar Pradesh",North India,2025-02-07,Moderate,48914,4,12840,Resolved
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2025-02-11,Low,1936,0,309,Resolved
+Wildfire,"Pune, Maharashtra",West India,2025-02-16,Low,10242,0,2644,Resolved
+Drought,"Nellore, Andhra Pradesh",South India,2025-02-16,Moderate,38520,2,8175,Resolved
+Drought,"Barmer, Rajasthan",North India,2025-02-17,Critical,132567,130,42833,Resolved
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-02-19,Moderate,43062,6,7464,Resolved
+Wildfire,"Tura, Meghalaya",Northeast India,2025-02-20,Low,11669,0,1820,Resolved
+Cold Wave,"Gorakhpur, Uttar Pradesh",North India,2025-02-21,Moderate,35599,3,6396,Resolved
+Wildfire,"Bhubaneswar, Odisha",East India,2025-02-22,Low,8889,0,2548,Resolved
+Cold Wave,"Barmer, Rajasthan",North India,2025-02-24,Moderate,25233,1,6309,Resolved
+Drought,"Jabalpur, Madhya Pradesh",Central India,2025-02-25,Critical,146239,292,20783,Resolved
+Cold Wave,"Srinagar, Jammu & Kashmir",North India,2025-02-25,Moderate,25502,2,6751,Resolved
+Drought,"Mumbai, Maharashtra",West India,2025-02-26,Moderate,30212,2,6966,Resolved
+Wildfire,"Nellore, Andhra Pradesh",South India,2025-03-01,Low,4587,0,1341,Resolved
+Drought,"Guwahati, Assam",Northeast India,2025-03-03,Moderate,44061,3,4504,Resolved
+Wildfire,"Hyderabad, Telangana",South India,2025-03-03,Low,11307,0,1820,Resolved
+Wildfire,"Bhopal, Madhya Pradesh",Central India,2025-03-13,Low,8269,0,1718,Resolved
+Drought,"Coimbatore, Tamil Nadu",South India,2025-03-15,High,100916,55,29073,Resolved
+Earthquake,"Namchi, Sikkim",Northeast India,2025-03-15,Moderate,36341,5,8718,Resolved
+Wildfire,"Bhopal, Madhya Pradesh",Central India,2025-03-15,Low,1659,0,312,Resolved
+Drought,"Raipur, Chhattisgarh",Central India,2025-03-18,Moderate,44953,6,4404,Resolved
+Drought,"Raipur, Chhattisgarh",Central India,2025-03-20,High,102677,43,21940,Resolved
+Wildfire,"Pasighat, Arunachal Pradesh",Northeast India,2025-03-21,Low,3304,0,753,Resolved
+Drought,"Coimbatore, Tamil Nadu",South India,2025-03-22,Critical,129652,88,25604,Resolved
+Drought,"Tiruchirappalli, Tamil Nadu",South India,2025-03-25,Critical,143723,175,20197,Resolved
+Wildfire,"Gangtok, Sikkim",Northeast India,2025-03-25,Low,5378,0,1124,Resolved
+Wildfire,"Barmer, Rajasthan",North India,2025-03-26,Low,10624,0,3259,Resolved
+Drought,"Kozhikode, Kerala",South India,2025-03-26,Moderate,42562,5,11017,Resolved
+Earthquake,"Tura, Meghalaya",Northeast India,2025-03-27,High,11737,7,3147,Resolved
+Drought,"Patna, Bihar",East India,2025-04-01,Critical,140421,260,42492,Resolved
+Wildfire,"Itanagar, Arunachal Pradesh",Northeast India,2025-04-01,Low,12337,0,3204,Resolved
+Earthquake,"Bhopal, Madhya Pradesh",Central India,2025-04-02,Low,11616,0,3256,Resolved
+Drought,"Raipur, Chhattisgarh",Central India,2025-04-02,High,67300,34,21450,Resolved
+Earthquake,"Margao, Goa",West India,2025-04-02,High,11888,3,3439,Resolved
+Drought,"Gangtok, Sikkim",Northeast India,2025-04-02,Critical,127602,136,40672,Resolved
+Wildfire,"Ranchi, Jharkhand",East India,2025-04-04,Low,6428,0,953,Resolved
+Heatwave,"Hazaribagh, Jharkhand",East India,2025-04-04,High,82768,34,12457,Resolved
+Heatwave,"Bhubaneswar, Odisha",East India,2025-04-04,Moderate,40380,5,9187,Resolved
+Heatwave,"Hubballi, Karnataka",South India,2025-04-07,Moderate,17946,3,4475,Resolved
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2025-04-09,Low,8695,0,970,Resolved
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2025-04-17,Low,12219,0,1456,Resolved
+Heatwave,"Tiruchirappalli, Tamil Nadu",South India,2025-04-17,High,92121,62,14310,Resolved
+Wildfire,"Patna, Bihar",East India,2025-04-19,Low,6149,0,1734,Resolved
+Heatwave,"Coimbatore, Tamil Nadu",South India,2025-04-20,High,88310,45,19678,Resolved
+Wildfire,"New Delhi, Delhi NCR",North India,2025-04-22,Low,4110,0,354,Resolved
+Earthquake,"Chamoli, Uttarakhand",North India,2025-04-22,Moderate,12680,1,1212,Resolved
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2025-04-25,High,109712,41,24360,Resolved
+Heatwave,"Gwalior, Madhya Pradesh",Central India,2025-04-27,High,100183,46,30062,Resolved
+Wildfire,"New Delhi, Delhi NCR",North India,2025-04-28,Low,5654,0,1800,Resolved
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2025-05-08,High,96406,55,16947,Resolved
+Drought,"Hubballi, Karnataka",South India,2025-05-09,Critical,131300,185,20365,Resolved
+Flood,"Puri, Odisha",East India,2025-05-10,Moderate,51008,6,10377,Resolved
+Cloudburst,"Gurugram, Delhi NCR",North India,2025-05-11,Moderate,15027,1,4955,Resolved
+Heatwave,"Bhuj, Gujarat",West India,2025-05-11,High,100872,67,30661,Resolved
+Flood,"Jodhpur, Rajasthan",North India,2025-05-13,High,56386,18,5501,Resolved
+Heatwave,"Gwalior, Madhya Pradesh",Central India,2025-05-13,Low,14214,0,3259,Resolved
+Heatwave,"Mumbai, Maharashtra",West India,2025-05-13,Moderate,28564,3,8350,Resolved
+Wildfire,"Nellore, Andhra Pradesh",South India,2025-05-15,Low,1736,0,215,Resolved
+Heatwave,"Balasore, Odisha",East India,2025-05-15,Moderate,38233,6,3125,Resolved
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2025-05-15,Moderate,40676,4,9501,Resolved
+Earthquake,"Panaji, Goa",West India,2025-05-15,Moderate,16772,1,2431,Resolved
+Wildfire,"Surat, Gujarat",West India,2025-05-20,Low,11567,0,2966,Resolved
+Flood,"Darbhanga, Bihar",East India,2025-05-21,High,60785,39,15981,Resolved
+Heatwave,"Mangaluru, Karnataka",South India,2025-05-23,High,91142,31,20333,Resolved
+Heatwave,"Bhuj, Gujarat",West India,2025-05-23,Moderate,51342,7,8264,Resolved
+Cyclone,"Balasore, Odisha",East India,2025-05-23,Critical,100054,118,17281,Resolved
+Flood,"Ponda, Goa",West India,2025-05-24,Moderate,31011,5,4534,Resolved
+Drought,"Raipur, Chhattisgarh",Central India,2025-05-24,High,87607,42,24708,Resolved
+Flood,"Ahmedabad, Gujarat",West India,2025-05-24,High,64513,36,12467,Resolved
+Wildfire,"Gangtok, Sikkim",Northeast India,2025-05-24,Low,6781,0,756,Resolved
+Heatwave,"Itanagar, Arunachal Pradesh",Northeast India,2025-05-27,Moderate,42701,4,12937,Resolved
+Cyclone,"Nizamabad, Telangana",South India,2025-05-27,Moderate,36462,5,4114,Resolved
+Heatwave,"Ahmedabad, Gujarat",West India,2025-05-28,High,63135,43,6249,Resolved
+Flood,"Thrissur, Kerala",South India,2025-06-02,High,95099,23,21404,Resolved
+Cyclone,"Margao, Goa",West India,2025-06-02,High,67117,36,17517,Resolved
+Flood,"Balasore, Odisha",East India,2025-06-02,High,64791,40,19502,Resolved
+Flood,"Kolkata, West Bengal",East India,2025-06-03,High,76300,30,18826,Resolved
+Heatwave,"Patna, Bihar",East India,2025-06-03,High,112331,26,23786,Resolved
+Heatwave,"Ponda, Goa",West India,2025-06-03,Moderate,23168,2,6219,Resolved
+Heatwave,"Puri, Odisha",East India,2025-06-04,High,71787,33,11344,Resolved
+Flood,"Surat, Gujarat",West India,2025-06-06,Moderate,33504,2,5474,Resolved
+Flood,"Bilaspur, Chhattisgarh",Central India,2025-06-06,Moderate,30672,5,2481,Resolved
+Landslide,"Dehradun, Uttarakhand",North India,2025-06-06,Moderate,17055,2,4785,Resolved
+Landslide,"Panaji, Goa",West India,2025-06-06,Moderate,15605,3,2919,Resolved
+Flood,"Margao, Goa",West India,2025-06-06,High,58041,26,8890,Resolved
+Cloudburst,"Balasore, Odisha",East India,2025-06-06,Low,2674,0,365,Resolved
+Heatwave,"Hubballi, Karnataka",South India,2025-06-09,High,111956,27,22675,Resolved
+Earthquake,"Jabalpur, Madhya Pradesh",Central India,2025-06-10,High,56453,16,9552,Resolved
+Cyclone,"Margao, Goa",West India,2025-06-10,High,48191,23,13239,Resolved
+Heatwave,"Guwahati, Assam",Northeast India,2025-06-11,High,116016,45,37211,Resolved
+Cyclone,"Kolkata, West Bengal",East India,2025-06-12,Critical,126924,265,23267,Resolved
+Flood,"Pasighat, Arunachal Pradesh",Northeast India,2025-06-12,High,82793,51,27317,Resolved
+Flood,"Surat, Gujarat",West India,2025-06-12,High,75645,16,13154,Resolved
+Landslide,"Srinagar, Jammu & Kashmir",North India,2025-06-12,Low,3205,0,719,Resolved
+Cloudburst,"Jamshedpur, Jharkhand",East India,2025-06-13,Low,14439,0,3124,Resolved
+Flood,"Gangtok, Sikkim",Northeast India,2025-06-13,High,76808,41,24810,Resolved
+Heatwave,"Mangan, Sikkim",Northeast India,2025-06-13,High,98217,33,16067,Resolved
+Cloudburst,"Bilaspur, Chhattisgarh",Central India,2025-06-13,Low,5119,0,631,Resolved
+Heatwave,"Kullu, Himachal Pradesh",North India,2025-06-14,High,86959,54,16310,Resolved
+Heatwave,"Raipur, Chhattisgarh",Central India,2025-06-16,Moderate,28079,2,5190,Resolved
+Heatwave,"Nellore, Andhra Pradesh",South India,2025-06-16,High,112480,37,9298,Resolved
+Landslide,"Jowai, Meghalaya",Northeast India,2025-06-16,Low,6668,0,960,Resolved
+Cyclone,"Kozhikode, Kerala",South India,2025-06-19,Critical,93103,164,10764,Resolved
+Heatwave,"Kozhikode, Kerala",South India,2025-06-20,High,62631,18,8971,Resolved
+Landslide,"Cooch Behar, West Bengal",East India,2025-06-20,Low,7382,0,1378,Resolved
+Cyclone,"Mumbai, Maharashtra",West India,2025-06-20,Critical,100745,216,12896,Resolved
+Earthquake,"Namchi, Sikkim",Northeast India,2025-06-20,Moderate,22868,4,5994,Resolved
+Landslide,"Barmer, Rajasthan",North India,2025-06-20,Low,2259,0,426,Resolved
+Earthquake,"Ponda, Goa",West India,2025-06-21,Moderate,37631,4,9353,Resolved
+Landslide,"Nizamabad, Telangana",South India,2025-06-21,Low,2666,0,644,Resolved
+Flood,"Shillong, Meghalaya",Northeast India,2025-06-22,Moderate,47393,4,7397,Resolved
+Heatwave,"Puri, Odisha",East India,2025-06-22,High,61526,23,19480,Resolved
+Cloudburst,"Cooch Behar, West Bengal",East India,2025-06-22,Low,7828,0,2427,Resolved
+Cyclone,"Puri, Odisha",East India,2025-06-22,Moderate,30449,3,8624,Resolved
+Flood,"Mangaluru, Karnataka",South India,2025-06-23,Moderate,47747,7,13541,Resolved
+Flood,"Kozhikode, Kerala",South India,2025-06-24,Moderate,43579,7,13729,Resolved
+Heatwave,"Gangtok, Sikkim",Northeast India,2025-06-24,High,74516,49,17427,Resolved
+Cyclone,"Patna, Bihar",East India,2025-06-26,Moderate,25213,4,3490,Resolved
+Heatwave,"Jodhpur, Rajasthan",North India,2025-06-26,Moderate,49615,8,4285,Resolved
+Flood,"Gwalior, Madhya Pradesh",Central India,2025-06-26,High,74971,36,14920,Resolved
+Flood,"Korba, Chhattisgarh",Central India,2025-06-27,Moderate,45353,6,4823,Resolved
+Flood,"Bhuj, Gujarat",West India,2025-07-03,Moderate,46997,5,7925,Resolved
+Earthquake,"Amritsar, Punjab",North India,2025-07-03,Moderate,18072,2,4268,Resolved
+Cloudburst,"Gwalior, Madhya Pradesh",Central India,2025-07-04,Moderate,17619,3,2353,Resolved
+Landslide,"Vijayawada, Andhra Pradesh",South India,2025-07-04,Low,14190,0,2319,Resolved
+Flood,"Bhubaneswar, Odisha",East India,2025-07-05,Low,13911,1,1655,Resolved
+Flood,"Mumbai, Maharashtra",West India,2025-07-07,High,82604,38,17201,Resolved
+Flood,"Bilaspur, Chhattisgarh",Central India,2025-07-07,Moderate,47482,7,15179,Resolved
+Flood,"Nellore, Andhra Pradesh",South India,2025-07-08,High,95128,54,10038,Resolved
+Flood,"Muzaffarpur, Bihar",East India,2025-07-08,Moderate,41573,6,10353,Resolved
+Cloudburst,"Kochi, Kerala",South India,2025-07-09,Low,3805,0,750,Resolved
+Landslide,"Guwahati, Assam",Northeast India,2025-07-10,Moderate,15830,1,4747,Resolved
+Earthquake,"Bhopal, Madhya Pradesh",Central India,2025-07-10,Moderate,30205,2,2887,Resolved
+Landslide,"Ludhiana, Punjab",North India,2025-07-11,Low,13338,0,3143,Resolved
+Flood,"Gwalior, Madhya Pradesh",Central India,2025-07-11,Moderate,48876,6,13085,Resolved
+Landslide,"Kozhikode, Kerala",South India,2025-07-12,Low,13476,0,2126,Resolved
+Flood,"Chennai, Tamil Nadu",South India,2025-07-12,High,85237,45,27138,Resolved
+Flood,"Thrissur, Kerala",South India,2025-07-13,Moderate,41542,3,5160,Resolved
+Cloudburst,"Mangan, Sikkim",Northeast India,2025-07-13,Moderate,17141,2,3869,Resolved
+Cloudburst,"Shillong, Meghalaya",Northeast India,2025-07-13,Low,5355,0,1432,Resolved
+Landslide,"Nizamabad, Telangana",South India,2025-07-15,Low,12850,0,3250,Resolved
+Flood,"Bhuj, Gujarat",West India,2025-07-17,Moderate,24435,2,7337,Resolved
+Flood,"Raipur, Chhattisgarh",Central India,2025-07-17,Moderate,48063,3,10624,Resolved
+Flood,"Patna, Bihar",East India,2025-07-17,Moderate,54600,3,6511,Resolved
+Landslide,"Warangal, Telangana",South India,2025-07-18,Low,7100,0,1875,Resolved
+Cloudburst,"Bhopal, Madhya Pradesh",Central India,2025-07-20,Low,8595,0,1723,Resolved
+Landslide,"Kochi, Kerala",South India,2025-07-20,Moderate,16876,2,3359,Resolved
+Flood,"Hubballi, Karnataka",South India,2025-07-20,High,80666,22,20260,Resolved
+Landslide,"Itanagar, Arunachal Pradesh",Northeast India,2025-07-23,Low,4203,0,876,Resolved
+Flood,"Coimbatore, Tamil Nadu",South India,2025-07-24,High,70174,38,9377,Resolved
+Flood,"Itanagar, Arunachal Pradesh",Northeast India,2025-07-25,High,66958,29,11148,Resolved
+Flood,"Ponda, Goa",West India,2025-07-25,High,95281,62,28537,Resolved
+Cloudburst,"Silchar, Assam",Northeast India,2025-07-26,Low,13940,0,2905,Resolved
+Flood,"Nagpur, Maharashtra",West India,2025-07-26,Moderate,38638,4,12743,Resolved
+Cloudburst,"Dibrugarh, Assam",Northeast India,2025-07-27,Moderate,18584,3,3043,Resolved
+Landslide,"Jaipur, Rajasthan",North India,2025-08-01,Low,12320,0,1023,Resolved
+Flood,"Itanagar, Arunachal Pradesh",Northeast India,2025-08-03,Moderate,46392,2,6814,Resolved
+Flood,"Dibrugarh, Assam",Northeast India,2025-08-04,High,85820,41,27293,Resolved
+Flood,"Patna, Bihar",East India,2025-08-05,Moderate,42811,5,6043,Resolved
+Landslide,"Namchi, Sikkim",Northeast India,2025-08-08,Low,7423,0,1485,Resolved
+Flood,"Mangan, Sikkim",Northeast India,2025-08-08,High,75624,40,14843,Resolved
+Landslide,"Srinagar, Jammu & Kashmir",North India,2025-08-08,Low,5599,0,1572,Resolved
+Cloudburst,"Siliguri, West Bengal",East India,2025-08-09,Low,2534,0,693,Resolved
+Landslide,"Ranchi, Jharkhand",East India,2025-08-10,Low,5336,0,1369,Resolved
+Cloudburst,"Barmer, Rajasthan",North India,2025-08-14,Low,10622,0,2512,Resolved
+Flood,"Surat, Gujarat",West India,2025-08-16,High,56712,33,8549,Resolved
+Flood,"Siliguri, West Bengal",East India,2025-08-16,Low,14197,1,2237,Resolved
+Flood,"Noida, Delhi NCR",North India,2025-08-17,Moderate,23135,2,5344,Resolved
+Flood,"Anantnag, Jammu & Kashmir",North India,2025-08-17,Moderate,39044,3,4616,Resolved
+Flood,"Itanagar, Arunachal Pradesh",Northeast India,2025-08-19,Moderate,23925,4,6283,Resolved
+Landslide,"Gurugram, Delhi NCR",North India,2025-08-19,Low,4149,0,872,Resolved
+Flood,"Jabalpur, Madhya Pradesh",Central India,2025-08-20,Moderate,27132,3,8333,Resolved
+Flood,"Gwalior, Madhya Pradesh",Central India,2025-08-20,High,91423,34,21374,Resolved
+Earthquake,"Mangan, Sikkim",Northeast India,2025-08-20,Moderate,39018,3,4695,Resolved
+Flood,"Thrissur, Kerala",South India,2025-08-20,High,57124,18,14675,Resolved
+Flood,"Puri, Odisha",East India,2025-08-21,Moderate,26558,2,4703,Resolved
+Earthquake,"Korba, Chhattisgarh",Central India,2025-08-23,High,8265,3,1861,Resolved
+Flood,"Nellore, Andhra Pradesh",South India,2025-08-23,High,93116,25,26475,Resolved
+Flood,"Srinagar, Jammu & Kashmir",North India,2025-08-23,Moderate,39390,2,6331,Resolved
+Flood,"Gangtok, Sikkim",Northeast India,2025-08-24,High,65899,26,9909,Resolved
+Flood,"Pune, Maharashtra",West India,2025-08-24,Moderate,36920,3,9200,Resolved
+Landslide,"Cooch Behar, West Bengal",East India,2025-08-24,Low,8363,0,2354,Resolved
+Cloudburst,"Bhuj, Gujarat",West India,2025-08-25,Low,10247,0,827,Resolved
+Flood,"Jowai, Meghalaya",Northeast India,2025-08-25,Moderate,23812,3,1938,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2025-08-25,Moderate,27330,2,8650,Resolved
+Flood,"Amritsar, Punjab",North India,2025-08-26,Moderate,34563,2,11382,Resolved
+Landslide,"Nizamabad, Telangana",South India,2025-08-28,Low,9071,0,1614,Resolved
+Cloudburst,"Dehradun, Uttarakhand",North India,2025-09-01,Low,12092,0,1640,Resolved
+Cloudburst,"Jaipur, Rajasthan",North India,2025-09-04,Low,6574,0,747,Resolved
+Flood,"Siliguri, West Bengal",East India,2025-09-11,Moderate,51926,7,16660,Resolved
+Flood,"Margao, Goa",West India,2025-09-17,Moderate,44116,5,3770,Resolved
+Flood,"Hubballi, Karnataka",South India,2025-09-17,Moderate,39287,4,11953,Resolved
+Cloudburst,"Gwalior, Madhya Pradesh",Central India,2025-09-22,Low,5771,0,1323,Resolved
+Flood,"Patna, Bihar",East India,2025-09-24,Moderate,31433,5,6083,Resolved
+Cloudburst,"Dehradun, Uttarakhand",North India,2025-09-25,Moderate,16651,1,3908,Resolved
+Flood,"Siliguri, West Bengal",East India,2025-09-26,Moderate,29266,4,9236,Resolved
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2025-09-27,Moderate,33198,5,7387,Resolved
+Landslide,"Dibrugarh, Assam",Northeast India,2025-09-27,Low,3834,0,558,Resolved
+Flood,"Ludhiana, Punjab",North India,2025-09-27,Moderate,53999,7,11448,Resolved
+Flood,"Siliguri, West Bengal",East India,2025-10-02,High,90155,19,11354,Resolved
+Cyclone,"Cooch Behar, West Bengal",East India,2025-10-04,Moderate,33324,5,4280,Resolved
+Flood,"Gwalior, Madhya Pradesh",Central India,2025-10-05,Moderate,42618,2,7149,Resolved
+Cyclone,"Bhuj, Gujarat",West India,2025-10-06,Moderate,18992,1,2178,Resolved
+Cyclone,"Ponda, Goa",West India,2025-10-06,Critical,99608,130,11113,Resolved
+Cyclone,"Surat, Gujarat",West India,2025-10-07,Critical,113839,209,11777,Resolved
+Flood,"Patna, Bihar",East India,2025-10-09,High,63554,27,8503,Resolved
+Flood,"Warangal, Telangana",South India,2025-10-11,Moderate,35231,6,8399,Resolved
+Flood,"Jabalpur, Madhya Pradesh",Central India,2025-10-13,Moderate,34552,3,7545,Resolved
+Cloudburst,"Rudraprayag, Uttarakhand",North India,2025-10-15,Low,11442,0,2405,Resolved
+Earthquake,"Siliguri, West Bengal",East India,2025-10-16,High,45577,23,14433,Resolved
+Earthquake,"Pasighat, Arunachal Pradesh",Northeast India,2025-10-17,Moderate,12041,1,2393,Resolved
+Cloudburst,"Jabalpur, Madhya Pradesh",Central India,2025-10-17,Moderate,16268,3,2166,Resolved
+Flood,"Kolkata, West Bengal",East India,2025-10-22,Moderate,50904,3,15321,Resolved
+Cyclone,"Coimbatore, Tamil Nadu",South India,2025-10-22,Critical,120978,208,18809,Resolved
+Flood,"Kullu, Himachal Pradesh",North India,2025-10-23,High,94534,32,26426,Resolved
+Cyclone,"Hazaribagh, Jharkhand",East India,2025-10-25,Critical,115454,126,35190,Resolved
+Flood,"Balasore, Odisha",East India,2025-10-27,Moderate,51532,6,8996,Resolved
+Cloudburst,"Jamshedpur, Jharkhand",East India,2025-10-27,Low,4147,0,1302,Resolved
+Cyclone,"Panaji, Goa",West India,2025-11-02,Moderate,39631,6,5700,Resolved
+Cyclone,"Darbhanga, Bihar",East India,2025-11-03,Critical,90212,104,24487,Resolved
+Cyclone,"Hazaribagh, Jharkhand",East India,2025-11-05,High,59474,39,4978,Resolved
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2025-11-08,Moderate,16103,2,3791,Resolved
+Cyclone,"Jamshedpur, Jharkhand",East India,2025-11-10,High,48593,22,10441,Resolved
+Cyclone,"Surat, Gujarat",West India,2025-11-11,High,80926,21,10298,Resolved
+Cyclone,"Muzaffarpur, Bihar",East India,2025-11-27,High,40366,15,11760,Resolved
+Drought,"Mumbai, Maharashtra",West India,2025-12-01,Critical,145791,155,38277,Resolved
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-12-05,High,78775,51,21409,Resolved
+Cyclone,"Chennai, Tamil Nadu",South India,2025-12-05,High,51323,25,10322,Resolved
+Cyclone,"Visakhapatnam, Andhra Pradesh",South India,2025-12-08,High,57917,28,15150,Resolved
+Cold Wave,"Mangan, Sikkim",Northeast India,2025-12-09,Moderate,49893,4,9306,Resolved
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2025-12-09,Critical,119439,209,22771,Resolved
+Cold Wave,"Shillong, Meghalaya",Northeast India,2025-12-10,Moderate,40899,4,12103,Resolved
+Drought,"Shillong, Meghalaya",Northeast India,2025-12-11,Moderate,47918,7,5000,Resolved
+Cyclone,"Puri, Odisha",East India,2025-12-11,High,45184,28,9421,Resolved
+Drought,"Gangtok, Sikkim",Northeast India,2025-12-12,Critical,128194,122,15425,Resolved
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2025-12-18,Critical,92819,145,19940,Resolved
+Drought,"Bilaspur, Chhattisgarh",Central India,2025-12-19,High,116202,81,33884,Resolved
+Drought,"Gwalior, Madhya Pradesh",Central India,2025-12-21,High,108364,49,13628,Resolved
+Cold Wave,"Gangtok, Sikkim",Northeast India,2025-12-21,Moderate,53441,6,13049,Resolved
+Drought,"Raipur, Chhattisgarh",Central India,2025-12-21,High,55834,29,14342,Resolved
+Drought,"Bhubaneswar, Odisha",East India,2025-12-23,High,90861,48,9904,Resolved
+Cyclone,"Balasore, Odisha",East India,2025-12-28,High,75360,26,15728,Resolved

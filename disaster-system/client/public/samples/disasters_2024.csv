@@ -1,0 +1,261 @@
+Disaster,Location,Region,Date,Severity,Affected_People,Casualties,Displaced,Status
+Cold Wave,"Silchar, Assam",Northeast India,2024-01-02,Moderate,39787,2,10546,Resolved
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-01-04,High,45441,13,8705,Resolved
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-06,Moderate,18377,1,2403,Resolved
+Cold Wave,"Korba, Chhattisgarh",Central India,2024-01-09,Low,14192,0,4102,Resolved
+Cold Wave,"Bhopal, Madhya Pradesh",Central India,2024-01-15,Low,11979,0,2496,Resolved
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-20,Moderate,38368,6,12647,Resolved
+Cold Wave,"Shillong, Meghalaya",Northeast India,2024-01-20,Moderate,29574,4,3403,Resolved
+Cold Wave,"Dehradun, Uttarakhand",North India,2024-01-23,Moderate,44302,7,3852,Resolved
+Wildfire,"Tawang, Arunachal Pradesh",Northeast India,2024-02-02,Low,5438,0,1711,Resolved
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-02-07,Low,7178,0,1671,Resolved
+Earthquake,"Raipur, Chhattisgarh",Central India,2024-02-11,High,44543,10,9506,Resolved
+Wildfire,"Kozhikode, Kerala",South India,2024-02-11,Low,12093,0,3731,Resolved
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-13,High,64758,13,7081,Resolved
+Earthquake,"Kolkata, West Bengal",East India,2024-02-14,Moderate,39907,6,5486,Resolved
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-02-14,Moderate,42263,5,5796,Resolved
+Wildfire,"Chennai, Tamil Nadu",South India,2024-02-16,Low,6902,0,1043,Resolved
+Cold Wave,"Gangtok, Sikkim",Northeast India,2024-02-18,Moderate,47825,5,15083,Resolved
+Wildfire,"Mangan, Sikkim",Northeast India,2024-02-22,Low,3534,0,1012,Resolved
+Wildfire,"Bhuj, Gujarat",West India,2024-02-25,Low,8165,0,1679,Resolved
+Drought,"Jamshedpur, Jharkhand",East India,2024-02-25,High,72050,34,16620,Resolved
+Drought,"Chamoli, Uttarakhand",North India,2024-02-27,Moderate,43713,4,13959,Resolved
+Cold Wave,"Bhopal, Madhya Pradesh",Central India,2024-02-28,Low,11358,0,1501,Resolved
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-03-01,Low,11416,0,3464,Resolved
+Wildfire,"Coimbatore, Tamil Nadu",South India,2024-03-05,Low,7318,0,2202,Resolved
+Drought,"Korba, Chhattisgarh",Central India,2024-03-06,High,112913,33,14935,Resolved
+Wildfire,"Kozhikode, Kerala",South India,2024-03-07,Low,3816,0,832,Resolved
+Drought,"Ahmedabad, Gujarat",West India,2024-03-15,High,92023,41,11407,Resolved
+Wildfire,"Kozhikode, Kerala",South India,2024-03-21,Low,9179,0,1025,Resolved
+Drought,"Cooch Behar, West Bengal",East India,2024-03-22,Moderate,45212,5,13802,Resolved
+Earthquake,"Kolkata, West Bengal",East India,2024-03-23,Moderate,30371,4,8838,Resolved
+Drought,"Nagpur, Maharashtra",West India,2024-03-24,High,83666,48,24419,Resolved
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-03-24,High,62848,22,12141,Resolved
+Drought,"Coimbatore, Tamil Nadu",South India,2024-03-26,High,105543,29,20948,Resolved
+Heatwave,"Korba, Chhattisgarh",Central India,2024-04-02,Moderate,32060,2,8548,Resolved
+Heatwave,"Lucknow, Uttar Pradesh",North India,2024-04-02,High,86157,33,22241,Resolved
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2024-04-03,Low,8884,0,1700,Resolved
+Drought,"Noida, Delhi NCR",North India,2024-04-04,Moderate,48159,8,8685,Resolved
+Wildfire,"Mangan, Sikkim",Northeast India,2024-04-04,Low,12394,0,3880,Resolved
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-04-05,High,94985,24,27105,Resolved
+Drought,"Bhuj, Gujarat",West India,2024-04-05,Moderate,27740,3,8094,Resolved
+Wildfire,"Chamoli, Uttarakhand",North India,2024-04-07,Low,10421,0,2198,Resolved
+Wildfire,"Korba, Chhattisgarh",Central India,2024-04-09,Low,1786,0,272,Resolved
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-09,High,91286,29,15492,Resolved
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-04-10,Moderate,32992,4,9415,Resolved
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2024-04-12,Low,6907,0,2230,Resolved
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-04-12,Moderate,28470,4,3187,Resolved
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-12,High,102949,34,10160,Resolved
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-15,High,59794,28,8244,Resolved
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-04-18,High,57291,19,6487,Resolved
+Heatwave,"Jaipur, Rajasthan",North India,2024-04-20,Moderate,33278,3,6213,Resolved
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-04-21,Moderate,20687,2,5501,Resolved
+Wildfire,"Hyderabad, Telangana",South India,2024-04-21,Low,10277,0,2292,Resolved
+Drought,"Jaipur, Rajasthan",North India,2024-04-22,High,119389,32,29330,Resolved
+Drought,"Darbhanga, Bihar",East India,2024-04-23,High,63012,21,9443,Resolved
+Wildfire,"Bhuj, Gujarat",West India,2024-04-23,Low,2727,0,596,Resolved
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-04-24,High,46252,17,13693,Resolved
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-04-26,High,74924,47,21010,Resolved
+Drought,"Ponda, Goa",West India,2024-04-26,Moderate,45200,6,5708,Resolved
+Wildfire,"Surat, Gujarat",West India,2024-04-27,Low,8680,0,937,Resolved
+Flood,"Panaji, Goa",West India,2024-05-01,Low,14072,0,2888,Resolved
+Cyclone,"Surat, Gujarat",West India,2024-05-02,High,73129,19,20969,Resolved
+Heatwave,"Surat, Gujarat",West India,2024-05-02,Moderate,15986,2,2239,Resolved
+Drought,"Jamshedpur, Jharkhand",East India,2024-05-03,High,74491,44,19819,Resolved
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-04,Moderate,26619,3,5875,Resolved
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-04,High,109314,43,31938,Resolved
+Heatwave,"Tiruchirappalli, Tamil Nadu",South India,2024-05-06,High,111599,43,12523,Resolved
+Cyclone,"Surat, Gujarat",West India,2024-05-07,High,51170,17,6732,Resolved
+Flood,"Cooch Behar, West Bengal",East India,2024-05-09,Moderate,54481,4,5441,Resolved
+Heatwave,"Gwalior, Madhya Pradesh",Central India,2024-05-09,High,113169,28,27845,Resolved
+Drought,"Gangtok, Sikkim",Northeast India,2024-05-09,High,104975,24,16172,Resolved
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-10,High,68934,15,20262,Resolved
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-05-11,Moderate,30056,4,4106,Resolved
+Drought,"Surat, Gujarat",West India,2024-05-11,Moderate,40191,5,8875,Resolved
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-05-12,High,100764,27,11004,Resolved
+Flood,"Kolkata, West Bengal",East India,2024-05-12,Moderate,45688,4,10896,Resolved
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-05-13,High,68363,38,22541,Resolved
+Cloudburst,"Ponda, Goa",West India,2024-05-14,Low,14901,0,1490,Resolved
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-05-15,Low,6973,0,671,Resolved
+Flood,"Jaipur, Rajasthan",North India,2024-05-15,Moderate,37762,6,4250,Resolved
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-05-17,Moderate,33543,4,8967,Resolved
+Cloudburst,"Srinagar, Jammu & Kashmir",North India,2024-05-18,Low,8582,0,871,Resolved
+Wildfire,"Margao, Goa",West India,2024-05-18,Low,7011,0,1278,Resolved
+Wildfire,"Vijayawada, Andhra Pradesh",South India,2024-05-18,Low,12537,0,1297,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-05-19,High,94159,63,23910,Resolved
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-19,Critical,132949,235,22478,Resolved
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-05-20,High,80720,22,24154,Resolved
+Earthquake,"Jaipur, Rajasthan",North India,2024-05-20,High,55536,33,13755,Resolved
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-21,Moderate,49874,5,6002,Resolved
+Cyclone,"Hubballi, Karnataka",South India,2024-05-21,High,68010,16,19646,Resolved
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-22,High,101005,58,30122,Resolved
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-22,Moderate,18464,3,5238,Resolved
+Drought,"Jodhpur, Rajasthan",North India,2024-05-22,Moderate,29254,5,7632,Resolved
+Cloudburst,"Pasighat, Arunachal Pradesh",Northeast India,2024-05-22,Low,4523,0,798,Resolved
+Cloudburst,"Jammu, Jammu & Kashmir",North India,2024-05-22,Low,6652,0,1927,Resolved
+Cyclone,"Bhuj, Gujarat",West India,2024-05-23,Critical,118830,116,12229,Resolved
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-23,High,72913,48,9578,Resolved
+Wildfire,"Darbhanga, Bihar",East India,2024-05-24,Low,2956,0,510,Resolved
+Drought,"Ludhiana, Punjab",North India,2024-05-24,High,96598,41,9867,Resolved
+Cloudburst,"Jabalpur, Madhya Pradesh",Central India,2024-05-24,Low,2918,0,253,Resolved
+Heatwave,"Ponda, Goa",West India,2024-05-24,Moderate,50740,6,14972,Resolved
+Wildfire,"Patna, Bihar",East India,2024-05-24,Low,2029,0,616,Resolved
+Flood,"Muzaffarpur, Bihar",East India,2024-05-25,Moderate,17469,3,1808,Resolved
+Wildfire,"Patna, Bihar",East India,2024-05-26,Low,8576,0,1173,Resolved
+Drought,"Nizamabad, Telangana",South India,2024-05-26,High,101865,50,24927,Resolved
+Wildfire,"Korba, Chhattisgarh",Central India,2024-05-27,Low,3916,0,314,Resolved
+Heatwave,"Kochi, Kerala",South India,2024-05-27,High,77783,50,12590,Resolved
+Cloudburst,"Silchar, Assam",Northeast India,2024-06-01,Low,10431,0,2700,Resolved
+Heatwave,"Warangal, Telangana",South India,2024-06-01,Moderate,37930,4,10119,Resolved
+Cyclone,"Panaji, Goa",West India,2024-06-02,High,64952,40,11725,Resolved
+Landslide,"Mangaluru, Karnataka",South India,2024-06-03,Low,8087,0,1336,Resolved
+Heatwave,"Gurugram, Delhi NCR",North India,2024-06-03,High,81280,28,26719,Resolved
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-04,High,83311,42,7337,Resolved
+Flood,"Mangan, Sikkim",Northeast India,2024-06-05,High,59587,13,18265,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-06-05,High,95307,35,27152,Resolved
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-05,Moderate,26363,1,7441,Resolved
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-06,High,69853,30,15620,Resolved
+Flood,"Panaji, Goa",West India,2024-06-07,High,76045,53,11494,Resolved
+Heatwave,"Bhubaneswar, Odisha",East India,2024-06-07,Moderate,28136,4,6274,Resolved
+Cloudburst,"Guwahati, Assam",Northeast India,2024-06-08,Low,10903,0,1493,Resolved
+Landslide,"Mumbai, Maharashtra",West India,2024-06-08,Moderate,16676,2,4900,Resolved
+Heatwave,"Margao, Goa",West India,2024-06-08,High,55732,28,10625,Resolved
+Earthquake,"Mumbai, Maharashtra",West India,2024-06-09,High,48937,31,6289,Resolved
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-06-10,Moderate,41162,4,10330,Resolved
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-06-11,Low,14479,0,1884,Resolved
+Cloudburst,"Nagpur, Maharashtra",West India,2024-06-11,Low,10731,0,3243,Resolved
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-12,High,115236,66,22985,Resolved
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-06-13,High,61750,27,19123,Resolved
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-06-15,High,85668,48,16582,Resolved
+Cloudburst,"Bhuj, Gujarat",West India,2024-06-17,Low,10171,0,1773,Resolved
+Heatwave,"Coimbatore, Tamil Nadu",South India,2024-06-17,High,117386,63,28329,Resolved
+Flood,"Pune, Maharashtra",West India,2024-06-21,High,72093,42,9448,Resolved
+Heatwave,"Ludhiana, Punjab",North India,2024-06-23,High,69580,26,7035,Resolved
+Flood,"Kozhikode, Kerala",South India,2024-06-23,Moderate,37578,6,5436,Resolved
+Heatwave,"Guwahati, Assam",Northeast India,2024-06-23,High,77194,45,18644,Resolved
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-24,High,68285,33,18718,Resolved
+Flood,"Silchar, Assam",Northeast India,2024-06-24,High,93073,46,15909,Resolved
+Cloudburst,"Bilaspur, Chhattisgarh",Central India,2024-06-27,Moderate,17574,1,2425,Resolved
+Heatwave,"Visakhapatnam, Andhra Pradesh",South India,2024-06-28,High,115621,65,17247,Resolved
+Heatwave,"Cooch Behar, West Bengal",East India,2024-06-28,Moderate,50327,3,14670,Resolved
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-01,High,83306,22,9753,Resolved
+Flood,"Visakhapatnam, Andhra Pradesh",South India,2024-07-02,Moderate,19451,2,2311,Resolved
+Flood,"Hubballi, Karnataka",South India,2024-07-03,High,77836,42,19904,Resolved
+Flood,"Ahmedabad, Gujarat",West India,2024-07-04,High,71377,44,7555,Resolved
+Flood,"Ponda, Goa",West India,2024-07-04,Moderate,28806,3,4040,Resolved
+Flood,"Kozhikode, Kerala",South India,2024-07-04,High,85949,41,18854,Resolved
+Landslide,"Ranchi, Jharkhand",East India,2024-07-07,Low,4467,0,1430,Resolved
+Cloudburst,"Gwalior, Madhya Pradesh",Central India,2024-07-08,Low,13185,1,1996,Resolved
+Landslide,"Silchar, Assam",Northeast India,2024-07-09,Low,10418,0,1408,Resolved
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-10,Moderate,28188,1,5163,Resolved
+Landslide,"Jowai, Meghalaya",Northeast India,2024-07-10,Low,2378,0,748,Resolved
+Flood,"Ranchi, Jharkhand",East India,2024-07-11,High,56234,23,8580,Resolved
+Flood,"Anantnag, Jammu & Kashmir",North India,2024-07-13,Moderate,47161,4,10897,Resolved
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2024-07-14,Moderate,30596,3,8257,Resolved
+Flood,"Lucknow, Uttar Pradesh",North India,2024-07-15,High,55729,16,7660,Resolved
+Landslide,"Mangan, Sikkim",Northeast India,2024-07-15,Low,4674,0,401,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-17,High,95159,28,28359,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-17,Moderate,37956,6,11717,Resolved
+Cloudburst,"Dibrugarh, Assam",Northeast India,2024-07-18,Low,9173,0,2801,Resolved
+Flood,"Coimbatore, Tamil Nadu",South India,2024-07-18,Moderate,48735,4,11676,Resolved
+Cloudburst,"Ahmedabad, Gujarat",West India,2024-07-18,Low,14448,1,3485,Resolved
+Cloudburst,"Pasighat, Arunachal Pradesh",Northeast India,2024-07-22,Moderate,15327,2,1336,Resolved
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-07-22,Moderate,20396,1,5870,Resolved
+Flood,"Jamshedpur, Jharkhand",East India,2024-07-23,Moderate,22276,2,4670,Resolved
+Flood,"Namchi, Sikkim",Northeast India,2024-07-23,High,83899,17,9216,Resolved
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-23,High,58158,26,11855,Resolved
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-24,High,90056,59,28617,Resolved
+Landslide,"Gangtok, Sikkim",Northeast India,2024-07-25,Low,5767,0,1819,Resolved
+Landslide,"Rudraprayag, Uttarakhand",North India,2024-07-25,Low,6546,0,1242,Resolved
+Flood,"Bhubaneswar, Odisha",East India,2024-07-26,Moderate,39687,3,11765,Resolved
+Landslide,"Dibrugarh, Assam",Northeast India,2024-07-27,Moderate,15717,1,3036,Resolved
+Landslide,"Guwahati, Assam",Northeast India,2024-07-28,Low,12534,0,3907,Resolved
+Cloudburst,"Coimbatore, Tamil Nadu",South India,2024-07-28,Moderate,15737,2,3957,Resolved
+Flood,"Nizamabad, Telangana",South India,2024-07-28,Moderate,45752,5,9802,Resolved
+Flood,"Patna, Bihar",East India,2024-08-03,Moderate,20401,3,3564,Resolved
+Cloudburst,"Hubballi, Karnataka",South India,2024-08-04,Low,2704,0,375,Resolved
+Landslide,"Rudraprayag, Uttarakhand",North India,2024-08-04,Low,14244,1,3637,Resolved
+Flood,"Bhuj, Gujarat",West India,2024-08-12,Moderate,35453,2,9176,Resolved
+Cloudburst,"Hubballi, Karnataka",South India,2024-08-12,Low,5578,0,1670,Resolved
+Flood,"Ranchi, Jharkhand",East India,2024-08-12,Moderate,51519,3,4355,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-08-13,High,62207,35,12590,Resolved
+Flood,"Jaipur, Rajasthan",North India,2024-08-14,Moderate,46206,7,5542,Resolved
+Earthquake,"Puri, Odisha",East India,2024-08-14,Low,7938,0,839,Resolved
+Cloudburst,"Raipur, Chhattisgarh",Central India,2024-08-16,Low,3177,0,782,Resolved
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-17,Moderate,47313,3,8383,Resolved
+Flood,"Surat, Gujarat",West India,2024-08-19,High,90724,57,29371,Resolved
+Earthquake,"Guwahati, Assam",Northeast India,2024-08-20,High,51907,10,4942,Resolved
+Landslide,"Shillong, Meghalaya",Northeast India,2024-08-21,Low,2760,0,264,Resolved
+Landslide,"Thrissur, Kerala",South India,2024-08-22,Low,14228,0,2663,Resolved
+Landslide,"Hubballi, Karnataka",South India,2024-08-23,Low,5826,0,1820,Resolved
+Flood,"Jamshedpur, Jharkhand",East India,2024-08-23,High,64154,21,12969,Resolved
+Cloudburst,"Guwahati, Assam",Northeast India,2024-08-24,Low,2301,0,689,Resolved
+Flood,"Pune, Maharashtra",West India,2024-08-28,High,72965,32,22081,Resolved
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-08-28,High,74733,19,23610,Resolved
+Cloudburst,"Barmer, Rajasthan",North India,2024-09-02,Low,9141,0,1095,Resolved
+Flood,"Muzaffarpur, Bihar",East India,2024-09-02,High,91772,58,26011,Resolved
+Landslide,"Lucknow, Uttar Pradesh",North India,2024-09-03,Low,6718,0,810,Resolved
+Cloudburst,"Nellore, Andhra Pradesh",South India,2024-09-05,Moderate,17328,2,5534,Resolved
+Landslide,"Margao, Goa",West India,2024-09-06,Low,7165,0,2232,Resolved
+Cloudburst,"Jodhpur, Rajasthan",North India,2024-09-06,Low,14535,0,2543,Resolved
+Landslide,"Pasighat, Arunachal Pradesh",Northeast India,2024-09-07,Moderate,15500,1,2513,Resolved
+Flood,"Ponda, Goa",West India,2024-09-08,Moderate,37432,3,6399,Resolved
+Flood,"Amritsar, Punjab",North India,2024-09-09,High,60679,28,12914,Resolved
+Flood,"Pasighat, Arunachal Pradesh",Northeast India,2024-09-10,Moderate,15263,1,2272,Resolved
+Landslide,"Chennai, Tamil Nadu",South India,2024-09-14,Low,6465,0,1514,Resolved
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-09-14,Moderate,53436,5,16755,Resolved
+Flood,"Muzaffarpur, Bihar",East India,2024-09-16,Moderate,26659,2,4018,Resolved
+Landslide,"Tawang, Arunachal Pradesh",Northeast India,2024-09-22,Moderate,15542,1,3707,Resolved
+Flood,"Raipur, Chhattisgarh",Central India,2024-09-22,High,82785,31,9490,Resolved
+Landslide,"Mumbai, Maharashtra",West India,2024-09-25,Low,13145,0,3797,Resolved
+Earthquake,"Jammu, Jammu & Kashmir",North India,2024-09-26,Moderate,35476,3,10803,Resolved
+Cyclone,"Hubballi, Karnataka",South India,2024-10-01,Critical,103140,76,17613,Resolved
+Cyclone,"Darbhanga, Bihar",East India,2024-10-01,High,82884,46,7978,Resolved
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-02,Critical,91483,173,27337,Resolved
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-03,High,50043,22,13361,Resolved
+Cloudburst,"Hubballi, Karnataka",South India,2024-10-03,Low,9977,0,1700,Resolved
+Flood,"Panaji, Goa",West India,2024-10-03,High,68046,38,21231,Resolved
+Flood,"Shillong, Meghalaya",Northeast India,2024-10-04,High,90403,22,15579,Resolved
+Cloudburst,"Bhopal, Madhya Pradesh",Central India,2024-10-06,Low,10237,0,3206,Resolved
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-10-06,Moderate,18083,2,2817,Resolved
+Flood,"Hyderabad, Telangana",South India,2024-10-08,Moderate,30759,4,8121,Resolved
+Flood,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-08,High,79116,49,7376,Resolved
+Cyclone,"Kolkata, West Bengal",East India,2024-10-09,High,46903,10,7154,Resolved
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-11,High,90220,49,17827,Resolved
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-10-11,Moderate,21027,1,3233,Resolved
+Flood,"Srinagar, Jammu & Kashmir",North India,2024-10-12,High,70927,27,18622,Resolved
+Cloudburst,"Mangan, Sikkim",Northeast India,2024-10-14,Moderate,17280,3,1482,Resolved
+Flood,"Margao, Goa",West India,2024-10-14,High,67683,34,5779,Resolved
+Cloudburst,"Nellore, Andhra Pradesh",South India,2024-10-15,Moderate,17388,1,1431,Resolved
+Cloudburst,"Srinagar, Jammu & Kashmir",North India,2024-10-17,Low,7416,0,2056,Resolved
+Flood,"Siliguri, West Bengal",East India,2024-10-24,High,81176,34,10337,Resolved
+Earthquake,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-26,High,45522,16,3876,Resolved
+Cyclone,"Mumbai, Maharashtra",West India,2024-11-02,High,53363,37,7175,Resolved
+Cyclone,"Margao, Goa",West India,2024-11-02,High,55970,36,13632,Resolved
+Cyclone,"Nizamabad, Telangana",South India,2024-11-04,Critical,120017,180,21957,Resolved
+Cyclone,"Ranchi, Jharkhand",East India,2024-11-07,High,80897,49,18562,Resolved
+Cyclone,"Bhubaneswar, Odisha",East India,2024-11-13,Critical,103891,169,17937,Resolved
+Earthquake,"Jowai, Meghalaya",Northeast India,2024-11-17,High,45002,29,4711,Resolved
+Cyclone,"Kolkata, West Bengal",East India,2024-11-18,Critical,107436,128,25506,Resolved
+Earthquake,"Gwalior, Madhya Pradesh",Central India,2024-11-22,Low,10150,0,1171,Resolved
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-11-22,High,50299,14,4658,Resolved
+Earthquake,"Mumbai, Maharashtra",West India,2024-11-27,High,43224,23,13073,Resolved
+Cold Wave,"Chamoli, Uttarakhand",North India,2024-12-01,Moderate,25216,2,3973,Resolved
+Drought,"Shillong, Meghalaya",Northeast India,2024-12-02,High,62705,17,19677,Resolved
+Cyclone,"Mumbai, Maharashtra",West India,2024-12-05,Critical,125095,87,22591,Resolved
+Drought,"Ahmedabad, Gujarat",West India,2024-12-07,High,108301,57,9880,Resolved
+Cold Wave,"Shimla, Himachal Pradesh",North India,2024-12-10,Moderate,25849,2,7875,Resolved
+Cyclone,"Kolkata, West Bengal",East India,2024-12-10,Critical,101394,87,21931,Resolved
+Cyclone,"Ponda, Goa",West India,2024-12-11,High,86988,36,9965,Resolved
+Drought,"Bhuj, Gujarat",West India,2024-12-11,Moderate,43403,5,12279,Resolved
+Cold Wave,"Jabalpur, Madhya Pradesh",Central India,2024-12-14,Moderate,51346,6,12717,Resolved
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2024-12-15,Moderate,27570,2,6943,Resolved
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-16,Critical,145324,233,29801,Resolved
+Cyclone,"Ranchi, Jharkhand",East India,2024-12-17,High,48142,30,14856,Resolved
+Earthquake,"Shillong, Meghalaya",Northeast India,2024-12-18,Moderate,28601,3,5477,Resolved
+Drought,"Surat, Gujarat",West India,2024-12-19,Critical,133708,173,40119,Resolved
+Drought,"Korba, Chhattisgarh",Central India,2024-12-19,Moderate,31735,5,9040,Resolved
+Cyclone,"Pune, Maharashtra",West India,2024-12-21,High,47888,29,7109,Resolved
+Drought,"Nellore, Andhra Pradesh",South India,2024-12-22,High,96453,31,14406,Resolved
+Earthquake,"Jabalpur, Madhya Pradesh",Central India,2024-12-23,High,58803,38,13952,Resolved
+Cyclone,"Ponda, Goa",West India,2024-12-24,High,82392,40,19141,Resolved

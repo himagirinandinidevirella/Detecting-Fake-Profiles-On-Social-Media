@@ -1,0 +1,901 @@
+Disaster_Type,Location,Region,Reported_At,Priority,Status,Category,Response_Minutes,People_Count
+Cold Wave,"Silchar, Assam",Northeast India,2024-01-02 00:31:00,Normal,Resolved,Medical Emergency,169.9,3
+Cold Wave,"Silchar, Assam",Northeast India,2024-01-05 05:23:00,Normal,Resolved,Trapped,26.7,3
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-01-05 11:24:00,Critical,Cancelled,Missing Person,,20
+Cold Wave,"Silchar, Assam",Northeast India,2024-01-05 17:24:00,Normal,Resolved,Trapped,92.1,1
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-01-06 11:05:00,Normal,Resolved,Missing Person,174.9,9
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-01-07 12:34:00,Normal,Cancelled,Food & Water,,21
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-08 15:14:00,Normal,Cancelled,Stranded,,5
+Cold Wave,"Korba, Chhattisgarh",Central India,2024-01-09 05:22:00,Normal,Resolved,Evacuation,185.7,19
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-09 08:04:00,Normal,Resolved,Missing Person,178,14
+Cold Wave,"Korba, Chhattisgarh",Central India,2024-01-14 19:13:00,Normal,Cancelled,Food & Water,,5
+Cold Wave,"Bhopal, Madhya Pradesh",Central India,2024-01-18 12:12:00,Normal,Cancelled,Medical Emergency,,19
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-20 16:10:00,Normal,Cancelled,Stranded,,5
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-22 06:31:00,Normal,Cancelled,Medical Emergency,,12
+Cold Wave,"Shillong, Meghalaya",Northeast India,2024-01-24 03:42:00,Normal,Resolved,Trapped,29,18
+Cold Wave,"New Delhi, Delhi NCR",North India,2024-01-25 15:33:00,Critical,Resolved,Stranded,84.4,24
+Cold Wave,"Dehradun, Uttarakhand",North India,2024-01-25 22:46:00,Normal,Resolved,Evacuation,12,2
+Cold Wave,"Dehradun, Uttarakhand",North India,2024-01-26 19:20:00,Critical,Resolved,Trapped,40.5,24
+Wildfire,"Tawang, Arunachal Pradesh",Northeast India,2024-02-06 05:51:00,Normal,Resolved,Trapped,9.2,17
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-02-08 19:14:00,Normal,Cancelled,Missing Person,,18
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-13 08:06:00,Critical,Resolved,Missing Person,57.2,18
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-13 13:02:00,Normal,Resolved,Trapped,169.9,16
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-13 14:03:00,Normal,Resolved,Trapped,72.8,23
+Earthquake,"Raipur, Chhattisgarh",Central India,2024-02-13 14:40:00,Normal,Cancelled,Food & Water,,11
+Earthquake,"Raipur, Chhattisgarh",Central India,2024-02-13 17:53:00,Normal,Cancelled,Medical Emergency,,13
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-13 23:15:00,Normal,Cancelled,Trapped,,1
+Earthquake,"Raipur, Chhattisgarh",Central India,2024-02-14 23:04:00,Normal,Resolved,Evacuation,188,6
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-02-14 23:30:00,Normal,Resolved,Power Failure,69.4,19
+Wildfire,"Kozhikode, Kerala",South India,2024-02-15 18:05:00,Critical,Resolved,Power Failure,18.6,4
+Earthquake,"Kolkata, West Bengal",East India,2024-02-16 10:06:00,Critical,Resolved,Medical Emergency,8.4,2
+Earthquake,"Kolkata, West Bengal",East India,2024-02-16 15:53:00,Normal,Resolved,Trapped,129.6,3
+Earthquake,"Kolkata, West Bengal",East India,2024-02-16 20:06:00,Normal,Resolved,Stranded,257.2,20
+Earthquake,"Raipur, Chhattisgarh",Central India,2024-02-17 05:14:00,Normal,Cancelled,Power Failure,,16
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-02-17 08:17:00,Normal,Cancelled,Medical Emergency,,14
+Earthquake,"Raipur, Chhattisgarh",Central India,2024-02-17 20:07:00,Normal,Cancelled,Food & Water,,18
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-18 00:52:00,Critical,Resolved,Food & Water,28.5,11
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-02-18 09:38:00,Normal,Resolved,Missing Person,93.7,11
+Wildfire,"Chennai, Tamil Nadu",South India,2024-02-19 02:38:00,Normal,Cancelled,Trapped,,7
+Earthquake,"Kolkata, West Bengal",East India,2024-02-19 06:55:00,Normal,Resolved,Medical Emergency,88.5,1
+Cold Wave,"Gangtok, Sikkim",Northeast India,2024-02-20 22:33:00,Normal,Cancelled,Food & Water,,7
+Cold Wave,"Gangtok, Sikkim",Northeast India,2024-02-22 15:59:00,Normal,Resolved,Power Failure,224.8,11
+Cold Wave,"Gangtok, Sikkim",Northeast India,2024-02-23 03:50:00,Normal,Resolved,Medical Emergency,245.5,17
+Cold Wave,"Gangtok, Sikkim",Northeast India,2024-02-23 08:20:00,Normal,Resolved,Power Failure,243.8,2
+Drought,"Jamshedpur, Jharkhand",East India,2024-02-25 14:18:00,Normal,Resolved,Missing Person,221.3,10
+Drought,"Jamshedpur, Jharkhand",East India,2024-02-26 18:01:00,Critical,Cancelled,Power Failure,,1
+Drought,"Jamshedpur, Jharkhand",East India,2024-02-27 05:48:00,Normal,Resolved,Missing Person,142.7,24
+Drought,"Chamoli, Uttarakhand",North India,2024-02-27 11:10:00,Normal,Resolved,Food & Water,219,8
+Wildfire,"Mangan, Sikkim",Northeast India,2024-02-27 22:19:00,Critical,Resolved,Food & Water,60.6,13
+Drought,"Chamoli, Uttarakhand",North India,2024-02-29 07:32:00,Critical,Resolved,Evacuation,57.1,7
+Drought,"Jamshedpur, Jharkhand",East India,2024-02-29 08:52:00,Critical,Resolved,Power Failure,11.8,1
+Drought,"Chamoli, Uttarakhand",North India,2024-03-01 04:56:00,Normal,Resolved,Evacuation,15.9,18
+Drought,"Jamshedpur, Jharkhand",East India,2024-03-01 22:16:00,Normal,Resolved,Stranded,4.4,8
+Wildfire,"Bhuj, Gujarat",West India,2024-03-02 05:16:00,Normal,Cancelled,Food & Water,,9
+Cold Wave,"Bhopal, Madhya Pradesh",Central India,2024-03-02 12:52:00,Normal,Cancelled,Food & Water,,24
+Cold Wave,"Bhopal, Madhya Pradesh",Central India,2024-03-04 23:49:00,Normal,Resolved,Medical Emergency,51.4,9
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-03-06 05:30:00,Normal,Resolved,Stranded,142.1,1
+Drought,"Korba, Chhattisgarh",Central India,2024-03-06 15:50:00,Normal,Resolved,Medical Emergency,57.2,23
+Drought,"Korba, Chhattisgarh",Central India,2024-03-06 20:27:00,Normal,Resolved,Stranded,92.5,20
+Wildfire,"Coimbatore, Tamil Nadu",South India,2024-03-06 22:36:00,Critical,Resolved,Evacuation,119,23
+Drought,"Korba, Chhattisgarh",Central India,2024-03-07 03:52:00,Normal,Resolved,Power Failure,29.2,22
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-03-07 11:27:00,Normal,Resolved,Food & Water,88.1,8
+Drought,"Korba, Chhattisgarh",Central India,2024-03-08 01:44:00,Normal,Resolved,Medical Emergency,247.2,5
+Drought,"Korba, Chhattisgarh",Central India,2024-03-08 11:30:00,Normal,Resolved,Missing Person,259.9,23
+Wildfire,"Coimbatore, Tamil Nadu",South India,2024-03-10 00:49:00,Normal,Cancelled,Medical Emergency,,20
+Wildfire,"Kozhikode, Kerala",South India,2024-03-10 10:52:00,Normal,Resolved,Missing Person,92.7,7
+Drought,"Korba, Chhattisgarh",Central India,2024-03-11 17:09:00,Critical,Resolved,Missing Person,34.9,16
+Drought,"Korba, Chhattisgarh",Central India,2024-03-11 22:19:00,Normal,Cancelled,Evacuation,,2
+Drought,"Ahmedabad, Gujarat",West India,2024-03-16 10:24:00,Normal,Resolved,Missing Person,102.8,19
+Drought,"Ahmedabad, Gujarat",West India,2024-03-18 01:14:00,Normal,Resolved,Evacuation,21.8,8
+Wildfire,"Kozhikode, Kerala",South India,2024-03-21 23:03:00,Normal,Cancelled,Trapped,,14
+Drought,"Cooch Behar, West Bengal",East India,2024-03-23 03:44:00,Normal,Resolved,Stranded,121.7,11
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-03-24 12:15:00,Normal,Resolved,Evacuation,176.1,24
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-03-24 14:04:00,Normal,Resolved,Evacuation,87.8,3
+Drought,"Cooch Behar, West Bengal",East India,2024-03-24 19:41:00,Normal,Resolved,Evacuation,185.7,13
+Drought,"Nagpur, Maharashtra",West India,2024-03-24 20:17:00,Normal,Cancelled,Missing Person,,24
+Drought,"Coimbatore, Tamil Nadu",South India,2024-03-26 01:56:00,Normal,Resolved,Power Failure,209.2,10
+Earthquake,"Kolkata, West Bengal",East India,2024-03-26 02:06:00,Normal,Cancelled,Evacuation,,14
+Drought,"Nagpur, Maharashtra",West India,2024-03-26 08:20:00,Normal,Resolved,Stranded,184.3,15
+Drought,"Nagpur, Maharashtra",West India,2024-03-27 01:19:00,Normal,Resolved,Trapped,106.7,8
+Drought,"Nagpur, Maharashtra",West India,2024-03-27 08:50:00,Critical,Resolved,Evacuation,108.4,13
+Earthquake,"Bilaspur, Chhattisgarh",Central India,2024-03-27 09:07:00,Normal,Resolved,Evacuation,156.8,20
+Drought,"Nagpur, Maharashtra",West India,2024-03-28 09:15:00,Normal,Resolved,Medical Emergency,163.1,17
+Drought,"Coimbatore, Tamil Nadu",South India,2024-03-28 20:06:00,Normal,Resolved,Food & Water,17.4,2
+Earthquake,"Kolkata, West Bengal",East India,2024-03-29 18:08:00,Normal,Cancelled,Evacuation,,6
+Earthquake,"Kolkata, West Bengal",East India,2024-03-29 18:16:00,Normal,Resolved,Power Failure,236.1,22
+Drought,"Nagpur, Maharashtra",West India,2024-03-29 19:56:00,Normal,Resolved,Stranded,46.3,23
+Drought,"Coimbatore, Tamil Nadu",South India,2024-04-01 07:39:00,Normal,Resolved,Power Failure,149.1,7
+Drought,"Coimbatore, Tamil Nadu",South India,2024-04-01 17:18:00,Normal,Resolved,Food & Water,78.7,14
+Drought,"Coimbatore, Tamil Nadu",South India,2024-04-01 22:33:00,Normal,Cancelled,Medical Emergency,,21
+Heatwave,"Korba, Chhattisgarh",Central India,2024-04-02 17:26:00,Critical,Cancelled,Power Failure,,24
+Heatwave,"Korba, Chhattisgarh",Central India,2024-04-03 00:44:00,Normal,Cancelled,Trapped,,2
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-04-05 06:47:00,Normal,Cancelled,Missing Person,,15
+Heatwave,"Korba, Chhattisgarh",Central India,2024-04-05 10:32:00,Normal,Resolved,Missing Person,16.8,17
+Drought,"Noida, Delhi NCR",North India,2024-04-05 12:46:00,Normal,Resolved,Evacuation,198.8,17
+Drought,"Noida, Delhi NCR",North India,2024-04-05 16:42:00,Normal,Resolved,Trapped,244,8
+Heatwave,"Lucknow, Uttar Pradesh",North India,2024-04-05 22:32:00,Normal,Resolved,Medical Emergency,15.5,7
+Heatwave,"Lucknow, Uttar Pradesh",North India,2024-04-06 02:43:00,Critical,Resolved,Medical Emergency,58.8,18
+Heatwave,"Lucknow, Uttar Pradesh",North India,2024-04-07 06:18:00,Critical,Resolved,Trapped,38.2,16
+Wildfire,"Chamoli, Uttarakhand",North India,2024-04-07 09:22:00,Normal,Cancelled,Food & Water,,24
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2024-04-07 13:10:00,Normal,Resolved,Missing Person,200.3,7
+Drought,"Bhuj, Gujarat",West India,2024-04-07 17:08:00,Normal,Cancelled,Stranded,,4
+Heatwave,"Korba, Chhattisgarh",Central India,2024-04-08 00:18:00,Critical,Resolved,Food & Water,88.4,4
+Drought,"Noida, Delhi NCR",North India,2024-04-08 22:33:00,Normal,Resolved,Evacuation,205.8,5
+Wildfire,"Mangan, Sikkim",Northeast India,2024-04-08 23:07:00,Normal,Resolved,Medical Emergency,80.7,21
+Wildfire,"Chamoli, Uttarakhand",North India,2024-04-09 07:30:00,Normal,Resolved,Power Failure,162.3,16
+Drought,"Noida, Delhi NCR",North India,2024-04-09 11:20:00,Normal,Resolved,Missing Person,9.2,8
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-04-09 11:31:00,Normal,Resolved,Evacuation,198.1,19
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-09 17:11:00,Normal,Resolved,Trapped,205.9,15
+Drought,"Bhuj, Gujarat",West India,2024-04-10 11:17:00,Normal,Resolved,Stranded,258.5,15
+Drought,"Gwalior, Madhya Pradesh",Central India,2024-04-10 13:03:00,Normal,Cancelled,Evacuation,,12
+Drought,"Noida, Delhi NCR",North India,2024-04-10 16:51:00,Normal,Resolved,Food & Water,71.3,3
+Wildfire,"Mangan, Sikkim",Northeast India,2024-04-10 17:01:00,Normal,Cancelled,Food & Water,,15
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-10 21:44:00,Normal,Resolved,Power Failure,138.7,8
+Drought,"Bhuj, Gujarat",West India,2024-04-11 11:53:00,Normal,Resolved,Stranded,141.9,9
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-11 23:48:00,Critical,Cancelled,Medical Emergency,,22
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-04-12 01:41:00,Normal,Resolved,Missing Person,106.1,9
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-04-12 10:51:00,Normal,Cancelled,Missing Person,,6
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-12 14:13:00,Critical,Cancelled,Trapped,,11
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-12 17:10:00,Normal,Resolved,Medical Emergency,158.6,5
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-04-12 19:30:00,Normal,Resolved,Trapped,93.8,20
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-13 03:34:00,Normal,Resolved,Trapped,139.6,7
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-13 19:35:00,Normal,Resolved,Missing Person,100.5,10
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-14 08:10:00,Normal,Resolved,Missing Person,84.2,20
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-14 14:19:00,Normal,Cancelled,Trapped,,9
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-14 18:49:00,Critical,Resolved,Power Failure,51.7,3
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2024-04-14 21:27:00,Normal,Resolved,Medical Emergency,206.2,16
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-04-15 03:21:00,Normal,Cancelled,Food & Water,,1
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-15 03:29:00,Normal,Resolved,Stranded,154.3,20
+Heatwave,"Vijayawada, Andhra Pradesh",South India,2024-04-15 14:55:00,Normal,Resolved,Evacuation,109.9,10
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-15 21:11:00,Normal,Resolved,Missing Person,91.8,22
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-16 00:22:00,Critical,Resolved,Evacuation,75.5,20
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-04-16 03:11:00,Critical,Resolved,Food & Water,81.9,13
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-16 03:17:00,Normal,Resolved,Medical Emergency,216.3,10
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-16 10:16:00,Normal,Resolved,Stranded,113.1,1
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-04-16 19:28:00,Critical,Resolved,Medical Emergency,43.1,8
+Heatwave,"Mangaluru, Karnataka",South India,2024-04-17 07:28:00,Normal,Cancelled,Stranded,,3
+Wildfire,"Jabalpur, Madhya Pradesh",Central India,2024-04-17 23:43:00,Normal,Resolved,Power Failure,142.8,5
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-04-18 13:59:00,Critical,Resolved,Food & Water,78.5,6
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-04-18 20:05:00,Critical,Resolved,Evacuation,74.4,18
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-19 12:02:00,Normal,Resolved,Evacuation,112.3,1
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-04-19 17:57:00,Normal,Resolved,Evacuation,189.9,10
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-04-19 20:43:00,Normal,Resolved,Food & Water,244.6,21
+Drought,"Raipur, Chhattisgarh",Central India,2024-04-20 09:09:00,Normal,Resolved,Evacuation,153.7,6
+Heatwave,"Jaipur, Rajasthan",North India,2024-04-20 12:01:00,Normal,Cancelled,Medical Emergency,,24
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-04-21 17:00:00,Normal,Cancelled,Power Failure,,16
+Drought,"Jaipur, Rajasthan",North India,2024-04-22 03:23:00,Critical,Resolved,Missing Person,42.5,23
+Drought,"Jaipur, Rajasthan",North India,2024-04-22 04:33:00,Normal,Resolved,Stranded,78,3
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-04-22 10:00:00,Normal,Resolved,Missing Person,177.7,15
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-04-22 15:32:00,Normal,Resolved,Food & Water,188.5,7
+Heatwave,"Jaipur, Rajasthan",North India,2024-04-22 15:44:00,Normal,Resolved,Medical Emergency,204,9
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-04-22 18:44:00,Normal,Cancelled,Stranded,,4
+Drought,"Darbhanga, Bihar",East India,2024-04-23 06:59:00,Normal,Resolved,Medical Emergency,252.6,22
+Drought,"Jaipur, Rajasthan",North India,2024-04-23 22:10:00,Normal,Cancelled,Missing Person,,1
+Wildfire,"Hyderabad, Telangana",South India,2024-04-24 07:02:00,Normal,Resolved,Power Failure,37.2,13
+Drought,"Jaipur, Rajasthan",North India,2024-04-24 07:50:00,Normal,Resolved,Missing Person,238.2,5
+Heatwave,"Jaipur, Rajasthan",North India,2024-04-25 04:42:00,Normal,Cancelled,Trapped,,19
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-04-25 19:28:00,Normal,Cancelled,Evacuation,,18
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-04-25 22:47:00,Normal,Resolved,Food & Water,229.8,10
+Drought,"Jaipur, Rajasthan",North India,2024-04-26 02:57:00,Normal,Resolved,Food & Water,105.9,3
+Wildfire,"Bhuj, Gujarat",West India,2024-04-26 03:12:00,Normal,Resolved,Medical Emergency,46,6
+Drought,"Ponda, Goa",West India,2024-04-26 11:50:00,Critical,Cancelled,Missing Person,,19
+Drought,"Jaipur, Rajasthan",North India,2024-04-26 19:37:00,Critical,Resolved,Stranded,91.4,7
+Drought,"Darbhanga, Bihar",East India,2024-04-27 09:58:00,Normal,Resolved,Trapped,88.3,10
+Wildfire,"Hyderabad, Telangana",South India,2024-04-27 11:28:00,Normal,Resolved,Missing Person,88.5,5
+Drought,"Ponda, Goa",West India,2024-04-27 14:57:00,Normal,Resolved,Missing Person,230.9,14
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-04-27 16:23:00,Normal,Resolved,Food & Water,173.5,11
+Wildfire,"Surat, Gujarat",West India,2024-04-27 20:31:00,Normal,Resolved,Medical Emergency,175,2
+Drought,"Darbhanga, Bihar",East India,2024-04-28 01:30:00,Normal,Cancelled,Trapped,,16
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-04-28 02:09:00,Normal,Resolved,Medical Emergency,127.2,6
+Drought,"Darbhanga, Bihar",East India,2024-04-28 14:09:00,Normal,Resolved,Evacuation,75.7,6
+Drought,"Ponda, Goa",West India,2024-04-29 01:01:00,Normal,Resolved,Medical Emergency,45.5,9
+Drought,"Darbhanga, Bihar",East India,2024-04-29 01:24:00,Normal,Resolved,Power Failure,245.2,10
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-04-29 07:31:00,Normal,Resolved,Evacuation,108.8,4
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-04-29 12:56:00,Critical,Resolved,Trapped,4.4,21
+Drought,"Darbhanga, Bihar",East India,2024-04-29 14:31:00,Normal,Resolved,Stranded,8.3,16
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-04-29 23:25:00,Normal,Cancelled,Stranded,,2
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-04-30 03:30:00,Normal,Resolved,Evacuation,103.6,15
+Drought,"Ponda, Goa",West India,2024-04-30 09:47:00,Normal,Resolved,Missing Person,45.8,3
+Drought,"Ponda, Goa",West India,2024-04-30 23:18:00,Normal,Resolved,Stranded,173.3,14
+Cyclone,"Surat, Gujarat",West India,2024-05-02 05:24:00,Critical,Cancelled,Medical Emergency,,11
+Drought,"Jamshedpur, Jharkhand",East India,2024-05-03 06:29:00,Normal,Cancelled,Medical Emergency,,11
+Drought,"Jamshedpur, Jharkhand",East India,2024-05-03 21:18:00,Normal,Resolved,Food & Water,260.4,23
+Wildfire,"Surat, Gujarat",West India,2024-05-03 21:46:00,Critical,Resolved,Evacuation,10.5,3
+Cyclone,"Surat, Gujarat",West India,2024-05-04 00:51:00,Normal,Cancelled,Evacuation,,9
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-04 04:36:00,Normal,Cancelled,Stranded,,8
+Flood,"Panaji, Goa",West India,2024-05-04 09:48:00,Normal,Resolved,Stranded,67.5,7
+Cyclone,"Surat, Gujarat",West India,2024-05-04 12:16:00,Normal,Resolved,Stranded,79,15
+Flood,"Panaji, Goa",West India,2024-05-04 13:03:00,Normal,Cancelled,Stranded,,1
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-04 16:38:00,Normal,Resolved,Stranded,178.6,4
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-05 03:42:00,Normal,Resolved,Trapped,215.2,18
+Cyclone,"Surat, Gujarat",West India,2024-05-05 14:28:00,Normal,Cancelled,Power Failure,,22
+Cyclone,"Surat, Gujarat",West India,2024-05-05 19:19:00,Critical,Cancelled,Missing Person,,18
+Drought,"Jamshedpur, Jharkhand",East India,2024-05-05 19:30:00,Normal,Cancelled,Medical Emergency,,8
+Drought,"Jamshedpur, Jharkhand",East India,2024-05-06 04:44:00,Normal,Cancelled,Evacuation,,7
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-06 06:57:00,Normal,Cancelled,Evacuation,,22
+Drought,"Jamshedpur, Jharkhand",East India,2024-05-06 08:58:00,Normal,Cancelled,Medical Emergency,,12
+Cyclone,"Surat, Gujarat",West India,2024-05-07 07:38:00,Normal,Cancelled,Stranded,,9
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-07 10:19:00,Normal,Resolved,Medical Emergency,225.1,19
+Heatwave,"Tiruchirappalli, Tamil Nadu",South India,2024-05-07 11:45:00,Normal,Cancelled,Medical Emergency,,21
+Flood,"Panaji, Goa",West India,2024-05-07 11:49:00,Normal,Resolved,Power Failure,139.5,13
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-07 19:15:00,Normal,Resolved,Power Failure,110.4,12
+Heatwave,"Surat, Gujarat",West India,2024-05-08 09:30:00,Normal,Resolved,Stranded,165,1
+Cyclone,"Surat, Gujarat",West India,2024-05-08 20:33:00,Normal,Cancelled,Trapped,,1
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-09 02:40:00,Normal,Resolved,Missing Person,214.1,3
+Heatwave,"Tiruchirappalli, Tamil Nadu",South India,2024-05-09 16:34:00,Normal,Cancelled,Stranded,,21
+Drought,"Gangtok, Sikkim",Northeast India,2024-05-10 00:32:00,Normal,Resolved,Power Failure,122.4,14
+Drought,"Gangtok, Sikkim",Northeast India,2024-05-10 01:55:00,Normal,Cancelled,Missing Person,,17
+Heatwave,"Tiruchirappalli, Tamil Nadu",South India,2024-05-10 03:45:00,Normal,Resolved,Food & Water,26.2,8
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-10 07:53:00,Normal,Resolved,Trapped,78.9,14
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-10 09:12:00,Normal,Resolved,Food & Water,22.9,19
+Flood,"Cooch Behar, West Bengal",East India,2024-05-10 09:36:00,Critical,Cancelled,Stranded,,6
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-10 10:34:00,Normal,Resolved,Food & Water,170.7,4
+Cyclone,"Surat, Gujarat",West India,2024-05-10 21:21:00,Normal,Resolved,Evacuation,32.3,21
+Flood,"Cooch Behar, West Bengal",East India,2024-05-10 21:27:00,Normal,Resolved,Food & Water,241.9,12
+Drought,"Bilaspur, Chhattisgarh",Central India,2024-05-10 22:58:00,Critical,Cancelled,Trapped,,1
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-11 15:17:00,Normal,Cancelled,Evacuation,,24
+Heatwave,"Gwalior, Madhya Pradesh",Central India,2024-05-11 19:07:00,Normal,Resolved,Medical Emergency,68.5,21
+Heatwave,"Gwalior, Madhya Pradesh",Central India,2024-05-11 22:40:00,Normal,Resolved,Trapped,225,6
+Drought,"Gangtok, Sikkim",Northeast India,2024-05-12 04:22:00,Normal,Resolved,Missing Person,194.3,14
+Drought,"Surat, Gujarat",West India,2024-05-12 13:20:00,Normal,Resolved,Power Failure,20,24
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-12 16:13:00,Normal,Resolved,Stranded,19.9,2
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-05-12 17:00:00,Normal,Cancelled,Food & Water,,9
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-13 01:47:00,Normal,Resolved,Power Failure,174.3,5
+Flood,"Cooch Behar, West Bengal",East India,2024-05-13 02:00:00,Normal,Cancelled,Missing Person,,10
+Cyclone,"Surat, Gujarat",West India,2024-05-13 11:55:00,Normal,Cancelled,Trapped,,7
+Heatwave,"Cooch Behar, West Bengal",East India,2024-05-14 00:05:00,Normal,Resolved,Evacuation,171.4,5
+Flood,"Kolkata, West Bengal",East India,2024-05-14 02:03:00,Normal,Resolved,Trapped,87.2,7
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-05-14 12:34:00,Critical,Resolved,Evacuation,124.7,8
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-05-14 19:22:00,Normal,Cancelled,Missing Person,,20
+Cloudburst,"Ponda, Goa",West India,2024-05-15 00:32:00,Normal,Resolved,Food & Water,5.4,4
+Heatwave,"Gwalior, Madhya Pradesh",Central India,2024-05-15 02:31:00,Normal,Cancelled,Trapped,,10
+Flood,"Cooch Behar, West Bengal",East India,2024-05-15 07:27:00,Normal,Cancelled,Missing Person,,24
+Earthquake,"Srinagar, Jammu & Kashmir",North India,2024-05-15 14:30:00,Normal,Resolved,Evacuation,198.4,21
+Drought,"Surat, Gujarat",West India,2024-05-15 23:46:00,Normal,Cancelled,Medical Emergency,,10
+Flood,"Kolkata, West Bengal",East India,2024-05-16 08:05:00,Normal,Resolved,Trapped,135.8,13
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-05-16 12:09:00,Normal,Resolved,Stranded,232.3,7
+Flood,"Kolkata, West Bengal",East India,2024-05-16 12:27:00,Normal,Cancelled,Trapped,,11
+Flood,"Kolkata, West Bengal",East India,2024-05-16 15:04:00,Normal,Resolved,Power Failure,181.7,9
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-05-16 20:56:00,Normal,Resolved,Evacuation,194.9,19
+Flood,"Jaipur, Rajasthan",North India,2024-05-17 06:03:00,Normal,Cancelled,Food & Water,,4
+Heatwave,"Hazaribagh, Jharkhand",East India,2024-05-17 16:47:00,Normal,Resolved,Missing Person,44.4,9
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-05-17 19:22:00,Normal,Resolved,Medical Emergency,217.4,10
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-05-17 21:45:00,Normal,Resolved,Medical Emergency,216.4,21
+Cloudburst,"Ponda, Goa",West India,2024-05-18 13:25:00,Normal,Resolved,Evacuation,111.3,19
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-05-19 07:43:00,Normal,Resolved,Power Failure,25.5,10
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-05-19 09:15:00,Normal,Cancelled,Missing Person,,13
+Wildfire,"Gwalior, Madhya Pradesh",Central India,2024-05-19 19:20:00,Normal,Cancelled,Stranded,,15
+Earthquake,"Jaipur, Rajasthan",North India,2024-05-20 10:49:00,Normal,Cancelled,Stranded,,17
+Wildfire,"Margao, Goa",West India,2024-05-20 11:42:00,Critical,Cancelled,Food & Water,,17
+Wildfire,"Vijayawada, Andhra Pradesh",South India,2024-05-21 01:04:00,Normal,Cancelled,Food & Water,,21
+Cyclone,"Hubballi, Karnataka",South India,2024-05-21 02:04:00,Normal,Cancelled,Evacuation,,6
+Flood,"Jaipur, Rajasthan",North India,2024-05-21 04:46:00,Critical,Cancelled,Evacuation,,14
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-05-21 06:51:00,Normal,Cancelled,Evacuation,,24
+Wildfire,"Vijayawada, Andhra Pradesh",South India,2024-05-21 19:36:00,Normal,Resolved,Stranded,130.7,6
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-21 21:42:00,Normal,Resolved,Stranded,124.2,11
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-21 23:33:00,Critical,Resolved,Food & Water,99.6,20
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-22 02:34:00,Critical,Cancelled,Medical Emergency,,16
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-22 03:01:00,Normal,Resolved,Missing Person,52.6,8
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-05-22 03:13:00,Critical,Resolved,Trapped,73.2,12
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-22 06:39:00,Normal,Resolved,Missing Person,55,6
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-05-22 08:46:00,Normal,Cancelled,Stranded,,18
+Earthquake,"Jaipur, Rajasthan",North India,2024-05-22 22:35:00,Normal,Resolved,Food & Water,224.5,1
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-22 23:59:00,Normal,Cancelled,Stranded,,6
+Drought,"Jodhpur, Rajasthan",North India,2024-05-23 04:53:00,Critical,Resolved,Stranded,81.7,13
+Cyclone,"Hubballi, Karnataka",South India,2024-05-23 06:27:00,Normal,Cancelled,Evacuation,,18
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-23 07:48:00,Normal,Resolved,Stranded,139.6,3
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-23 09:08:00,Normal,Cancelled,Stranded,,11
+Cyclone,"Bhuj, Gujarat",West India,2024-05-23 16:22:00,Critical,Resolved,Medical Emergency,10.3,20
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-23 22:03:00,Normal,Resolved,Missing Person,101.6,21
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-23 22:55:00,Critical,Resolved,Power Failure,25.7,17
+Cloudburst,"Srinagar, Jammu & Kashmir",North India,2024-05-23 23:23:00,Normal,Cancelled,Medical Emergency,,8
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2024-05-24 02:14:00,Critical,Resolved,Stranded,109,18
+Drought,"Ludhiana, Punjab",North India,2024-05-24 03:40:00,Normal,Cancelled,Missing Person,,12
+Cyclone,"Hubballi, Karnataka",South India,2024-05-24 07:14:00,Normal,Cancelled,Stranded,,19
+Cyclone,"Bhuj, Gujarat",West India,2024-05-24 11:19:00,Critical,Cancelled,Food & Water,,21
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-24 17:29:00,Normal,Resolved,Stranded,208,19
+Wildfire,"Margao, Goa",West India,2024-05-24 17:59:00,Normal,Resolved,Food & Water,23,6
+Wildfire,"Patna, Bihar",East India,2024-05-24 19:05:00,Critical,Cancelled,Missing Person,,23
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-05-24 20:30:00,Normal,Resolved,Trapped,227.3,15
+Drought,"Ludhiana, Punjab",North India,2024-05-24 23:03:00,Normal,Resolved,Power Failure,14.8,24
+Heatwave,"Ponda, Goa",West India,2024-05-25 00:20:00,Critical,Resolved,Food & Water,51.2,11
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-25 01:13:00,Normal,Resolved,Food & Water,35.4,1
+Drought,"Jodhpur, Rajasthan",North India,2024-05-25 01:24:00,Normal,Resolved,Power Failure,233.6,20
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-25 09:11:00,Normal,Cancelled,Trapped,,23
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-25 10:48:00,Normal,Resolved,Trapped,66.2,18
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-25 13:06:00,Normal,Cancelled,Food & Water,,9
+Cloudburst,"Jammu, Jammu & Kashmir",North India,2024-05-25 17:38:00,Normal,Resolved,Stranded,100.3,4
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-25 17:47:00,Normal,Resolved,Missing Person,128.3,5
+Earthquake,"Jaipur, Rajasthan",North India,2024-05-25 21:30:00,Critical,Cancelled,Trapped,,10
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-05-25 23:31:00,Normal,Resolved,Power Failure,251,10
+Flood,"Muzaffarpur, Bihar",East India,2024-05-26 09:24:00,Normal,Resolved,Power Failure,62.6,2
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-26 09:43:00,Normal,Cancelled,Evacuation,,18
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-26 10:48:00,Normal,Cancelled,Food & Water,,5
+Cloudburst,"Jabalpur, Madhya Pradesh",Central India,2024-05-26 12:11:00,Normal,Resolved,Power Failure,7.4,12
+Drought,"Nizamabad, Telangana",South India,2024-05-26 12:47:00,Normal,Resolved,Medical Emergency,179.5,4
+Cyclone,"Hubballi, Karnataka",South India,2024-05-26 13:44:00,Normal,Cancelled,Food & Water,,13
+Drought,"Jodhpur, Rajasthan",North India,2024-05-26 14:02:00,Critical,Resolved,Missing Person,54.3,20
+Drought,"Nizamabad, Telangana",South India,2024-05-26 15:53:00,Normal,Resolved,Missing Person,155.8,2
+Cyclone,"Bhuj, Gujarat",West India,2024-05-26 17:29:00,Normal,Resolved,Power Failure,218.5,22
+Flood,"Muzaffarpur, Bihar",East India,2024-05-26 21:07:00,Normal,Resolved,Power Failure,227.7,3
+Wildfire,"Darbhanga, Bihar",East India,2024-05-27 01:44:00,Normal,Cancelled,Missing Person,,4
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-27 02:03:00,Critical,Resolved,Stranded,14.3,19
+Drought,"Ludhiana, Punjab",North India,2024-05-27 04:15:00,Critical,Resolved,Stranded,121.6,2
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-27 05:14:00,Normal,Resolved,Missing Person,234.7,12
+Drought,"Ludhiana, Punjab",North India,2024-05-27 07:56:00,Normal,Resolved,Stranded,258.7,9
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-27 11:25:00,Normal,Resolved,Power Failure,157,3
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-27 14:49:00,Critical,Cancelled,Stranded,,19
+Heatwave,"Kochi, Kerala",South India,2024-05-27 17:41:00,Critical,Cancelled,Power Failure,,2
+Drought,"Ludhiana, Punjab",North India,2024-05-27 21:41:00,Normal,Resolved,Missing Person,154.3,23
+Wildfire,"Patna, Bihar",East India,2024-05-27 22:48:00,Normal,Cancelled,Medical Emergency,,17
+Heatwave,"Kochi, Kerala",South India,2024-05-28 00:42:00,Normal,Resolved,Trapped,82.1,22
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-05-28 01:59:00,Normal,Resolved,Evacuation,34.7,8
+Heatwave,"Srinagar, Jammu & Kashmir",North India,2024-05-28 05:52:00,Normal,Resolved,Power Failure,192.9,8
+Drought,"Ludhiana, Punjab",North India,2024-05-28 14:41:00,Normal,Resolved,Food & Water,145.7,13
+Heatwave,"Bhubaneswar, Odisha",East India,2024-05-28 15:34:00,Normal,Resolved,Food & Water,53,10
+Cloudburst,"Pasighat, Arunachal Pradesh",Northeast India,2024-05-28 21:41:00,Normal,Resolved,Stranded,214.3,7
+Heatwave,"Ponda, Goa",West India,2024-05-29 02:40:00,Normal,Resolved,Medical Emergency,119.6,10
+Heatwave,"Ponda, Goa",West India,2024-05-29 07:31:00,Normal,Resolved,Medical Emergency,197,13
+Drought,"Nizamabad, Telangana",South India,2024-05-29 15:06:00,Critical,Cancelled,Evacuation,,10
+Drought,"Nizamabad, Telangana",South India,2024-05-29 16:03:00,Critical,Resolved,Evacuation,42.1,2
+Cyclone,"Bhuj, Gujarat",West India,2024-05-29 17:14:00,Critical,Cancelled,Missing Person,,12
+Heatwave,"Ponda, Goa",West India,2024-05-29 23:56:00,Critical,Resolved,Stranded,94,16
+Flood,"Muzaffarpur, Bihar",East India,2024-05-31 19:19:00,Normal,Cancelled,Evacuation,,19
+Heatwave,"Kochi, Kerala",South India,2024-05-31 23:02:00,Normal,Resolved,Medical Emergency,243.4,22
+Drought,"Nizamabad, Telangana",South India,2024-06-01 10:02:00,Critical,Cancelled,Medical Emergency,,19
+Wildfire,"Korba, Chhattisgarh",Central India,2024-06-01 14:10:00,Normal,Resolved,Trapped,197.4,19
+Drought,"Nizamabad, Telangana",South India,2024-06-01 22:33:00,Normal,Resolved,Missing Person,102.1,11
+Heatwave,"Kochi, Kerala",South India,2024-06-02 20:33:00,Critical,Resolved,Medical Emergency,48.9,11
+Heatwave,"Gurugram, Delhi NCR",North India,2024-06-03 04:40:00,Normal,Resolved,Stranded,104.2,9
+Cloudburst,"Silchar, Assam",Northeast India,2024-06-03 06:45:00,Normal,Cancelled,Missing Person,,22
+Cyclone,"Panaji, Goa",West India,2024-06-03 16:55:00,Normal,Resolved,Missing Person,151.6,3
+Heatwave,"Warangal, Telangana",South India,2024-06-04 05:29:00,Normal,Resolved,Trapped,149.2,9
+Cyclone,"Panaji, Goa",West India,2024-06-04 14:13:00,Normal,Resolved,Evacuation,248.7,22
+Heatwave,"Warangal, Telangana",South India,2024-06-04 16:06:00,Normal,Resolved,Missing Person,133.9,5
+Heatwave,"Gurugram, Delhi NCR",North India,2024-06-04 17:44:00,Normal,Resolved,Food & Water,238.2,18
+Landslide,"Mangaluru, Karnataka",South India,2024-06-05 01:09:00,Normal,Cancelled,Trapped,,9
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-06-05 01:13:00,Normal,Resolved,Evacuation,21.6,23
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-06-05 08:46:00,Normal,Resolved,Trapped,147.4,21
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-05 11:38:00,Normal,Resolved,Evacuation,107.2,9
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-05 16:26:00,Normal,Cancelled,Power Failure,,22
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-05 17:27:00,Normal,Resolved,Power Failure,57.3,14
+Cyclone,"Panaji, Goa",West India,2024-06-05 23:04:00,Normal,Resolved,Evacuation,30.1,10
+Cyclone,"Panaji, Goa",West India,2024-06-06 00:03:00,Normal,Resolved,Evacuation,51.1,19
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-06 00:05:00,Normal,Resolved,Medical Emergency,91.2,10
+Heatwave,"Gurugram, Delhi NCR",North India,2024-06-06 08:10:00,Normal,Cancelled,Stranded,,4
+Heatwave,"Warangal, Telangana",South India,2024-06-07 00:04:00,Normal,Cancelled,Trapped,,23
+Flood,"Panaji, Goa",West India,2024-06-07 02:01:00,Normal,Cancelled,Food & Water,,9
+Heatwave,"Bhubaneswar, Odisha",East India,2024-06-07 05:51:00,Normal,Resolved,Medical Emergency,23,16
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-07 08:11:00,Normal,Resolved,Power Failure,241.9,15
+Flood,"Panaji, Goa",West India,2024-06-07 14:15:00,Critical,Cancelled,Trapped,,1
+Cyclone,"Panaji, Goa",West India,2024-06-07 14:33:00,Normal,Cancelled,Medical Emergency,,13
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-07 18:14:00,Critical,Resolved,Medical Emergency,67.2,21
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-06-08 06:21:00,Normal,Resolved,Stranded,59.5,9
+Heatwave,"Gurugram, Delhi NCR",North India,2024-06-08 16:30:00,Normal,Cancelled,Evacuation,,18
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-08 18:14:00,Normal,Resolved,Medical Emergency,47.9,7
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-08 18:56:00,Critical,Cancelled,Medical Emergency,,20
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-08 20:00:00,Normal,Resolved,Food & Water,114,1
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-09 00:02:00,Normal,Resolved,Evacuation,116.3,3
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-09 05:12:00,Normal,Cancelled,Medical Emergency,,7
+Cloudburst,"Guwahati, Assam",Northeast India,2024-06-09 08:47:00,Normal,Resolved,Medical Emergency,174.6,11
+Landslide,"Mumbai, Maharashtra",West India,2024-06-09 09:11:00,Normal,Resolved,Food & Water,7.6,14
+Heatwave,"Chennai, Tamil Nadu",South India,2024-06-09 15:36:00,Critical,Cancelled,Medical Emergency,,13
+Heatwave,"Gurugram, Delhi NCR",North India,2024-06-09 16:01:00,Critical,Resolved,Food & Water,113.6,8
+Flood,"Mangan, Sikkim",Northeast India,2024-06-09 16:13:00,Normal,Resolved,Trapped,186.8,9
+Flood,"Mangan, Sikkim",Northeast India,2024-06-09 17:15:00,Normal,Resolved,Trapped,56.6,21
+Earthquake,"Mumbai, Maharashtra",West India,2024-06-09 18:30:00,Critical,Resolved,Food & Water,28.5,18
+Heatwave,"Margao, Goa",West India,2024-06-10 05:31:00,Normal,Resolved,Stranded,112.5,2
+Heatwave,"Bhubaneswar, Odisha",East India,2024-06-10 14:16:00,Critical,Cancelled,Trapped,,2
+Heatwave,"Margao, Goa",West India,2024-06-10 15:30:00,Normal,Resolved,Stranded,17.2,2
+Heatwave,"Margao, Goa",West India,2024-06-10 16:07:00,Normal,Resolved,Stranded,221.8,1
+Flood,"Panaji, Goa",West India,2024-06-10 21:54:00,Normal,Resolved,Stranded,91.3,9
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-10 22:01:00,Normal,Resolved,Evacuation,152.4,11
+Earthquake,"Mumbai, Maharashtra",West India,2024-06-10 22:38:00,Critical,Resolved,Evacuation,41.4,22
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-06-11 02:47:00,Normal,Cancelled,Power Failure,,12
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-06-11 02:48:00,Normal,Resolved,Trapped,112.2,5
+Cloudburst,"Guwahati, Assam",Northeast India,2024-06-11 07:33:00,Critical,Resolved,Food & Water,89.7,21
+Heatwave,"Bhubaneswar, Odisha",East India,2024-06-11 16:31:00,Critical,Cancelled,Medical Emergency,,23
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-06-11 19:48:00,Normal,Resolved,Stranded,166,24
+Heatwave,"Margao, Goa",West India,2024-06-11 21:15:00,Normal,Resolved,Trapped,164.4,7
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-11 23:26:00,Critical,Resolved,Medical Emergency,52.6,8
+Flood,"Panaji, Goa",West India,2024-06-12 07:59:00,Normal,Cancelled,Missing Person,,13
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-12 08:02:00,Normal,Resolved,Trapped,214.3,6
+Flood,"Panaji, Goa",West India,2024-06-12 11:53:00,Normal,Resolved,Medical Emergency,79.4,16
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-12 13:00:00,Normal,Resolved,Evacuation,154.6,6
+Landslide,"Mumbai, Maharashtra",West India,2024-06-12 15:06:00,Critical,Resolved,Trapped,70.8,18
+Heatwave,"Jabalpur, Madhya Pradesh",Central India,2024-06-12 19:29:00,Normal,Resolved,Stranded,250,3
+Heatwave,"Bhubaneswar, Odisha",East India,2024-06-13 00:18:00,Normal,Resolved,Trapped,80.6,19
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-06-13 01:05:00,Normal,Cancelled,Stranded,,7
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-13 01:20:00,Critical,Resolved,Power Failure,71,15
+Flood,"Panaji, Goa",West India,2024-06-13 06:31:00,Normal,Resolved,Missing Person,239.3,19
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-13 07:15:00,Normal,Cancelled,Power Failure,,5
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-06-13 09:31:00,Normal,Cancelled,Missing Person,,20
+Earthquake,"Mumbai, Maharashtra",West India,2024-06-13 13:58:00,Normal,Resolved,Trapped,13,5
+Earthquake,"Mumbai, Maharashtra",West India,2024-06-14 04:59:00,Normal,Resolved,Missing Person,63.5,3
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-06-14 15:50:00,Normal,Resolved,Trapped,232.1,3
+Earthquake,"Mumbai, Maharashtra",West India,2024-06-15 00:45:00,Normal,Resolved,Trapped,208.6,23
+Cloudburst,"Nagpur, Maharashtra",West India,2024-06-15 12:56:00,Normal,Resolved,Medical Emergency,122.2,9
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-15 16:46:00,Normal,Resolved,Food & Water,115,12
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-06-15 23:20:00,Normal,Cancelled,Missing Person,,3
+Heatwave,"Bilaspur, Chhattisgarh",Central India,2024-06-16 16:53:00,Normal,Cancelled,Missing Person,,1
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-17 20:00:00,Normal,Resolved,Food & Water,101.7,6
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-17 23:56:00,Normal,Cancelled,Stranded,,5
+Heatwave,"Coimbatore, Tamil Nadu",South India,2024-06-18 01:22:00,Normal,Resolved,Power Failure,85.7,19
+Heatwave,"Raipur, Chhattisgarh",Central India,2024-06-18 09:05:00,Normal,Resolved,Food & Water,129.1,22
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-06-18 10:24:00,Normal,Resolved,Trapped,121.9,12
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-06-18 20:50:00,Normal,Cancelled,Trapped,,12
+Heatwave,"Coimbatore, Tamil Nadu",South India,2024-06-18 21:20:00,Critical,Resolved,Food & Water,119.5,12
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-06-19 05:18:00,Normal,Cancelled,Trapped,,17
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-06-19 06:57:00,Normal,Resolved,Food & Water,233.7,8
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-06-19 08:59:00,Normal,Resolved,Food & Water,24.2,24
+Heatwave,"Tawang, Arunachal Pradesh",Northeast India,2024-06-19 14:07:00,Normal,Resolved,Missing Person,130,3
+Cloudburst,"Bhuj, Gujarat",West India,2024-06-19 22:29:00,Normal,Cancelled,Trapped,,19
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-06-20 01:23:00,Critical,Resolved,Evacuation,61.6,3
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-06-20 02:43:00,Normal,Resolved,Stranded,32.6,17
+Heatwave,"Coimbatore, Tamil Nadu",South India,2024-06-21 04:48:00,Normal,Resolved,Medical Emergency,216.2,13
+Flood,"Pune, Maharashtra",West India,2024-06-21 06:07:00,Normal,Cancelled,Stranded,,15
+Heatwave,"Bhopal, Madhya Pradesh",Central India,2024-06-21 09:54:00,Normal,Resolved,Evacuation,60.5,18
+Cloudburst,"Bhuj, Gujarat",West India,2024-06-23 04:18:00,Normal,Cancelled,Stranded,,6
+Flood,"Pune, Maharashtra",West India,2024-06-23 11:28:00,Normal,Resolved,Stranded,58.6,10
+Heatwave,"Coimbatore, Tamil Nadu",South India,2024-06-23 16:05:00,Normal,Cancelled,Evacuation,,5
+Flood,"Pune, Maharashtra",West India,2024-06-23 18:30:00,Normal,Resolved,Trapped,53.5,5
+Heatwave,"Guwahati, Assam",Northeast India,2024-06-23 23:45:00,Normal,Cancelled,Food & Water,,19
+Heatwave,"Ludhiana, Punjab",North India,2024-06-24 00:54:00,Normal,Resolved,Food & Water,111.5,21
+Heatwave,"Ludhiana, Punjab",North India,2024-06-24 01:44:00,Normal,Resolved,Food & Water,175.4,12
+Flood,"Pune, Maharashtra",West India,2024-06-24 02:29:00,Normal,Cancelled,Evacuation,,20
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-25 03:48:00,Normal,Cancelled,Medical Emergency,,10
+Flood,"Pune, Maharashtra",West India,2024-06-25 13:31:00,Normal,Cancelled,Evacuation,,15
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-25 19:18:00,Critical,Cancelled,Missing Person,,4
+Heatwave,"Ludhiana, Punjab",North India,2024-06-26 05:05:00,Normal,Resolved,Food & Water,246,7
+Flood,"Kozhikode, Kerala",South India,2024-06-26 20:41:00,Normal,Resolved,Medical Emergency,43,18
+Flood,"Kozhikode, Kerala",South India,2024-06-27 00:41:00,Normal,Resolved,Stranded,256,17
+Heatwave,"Guwahati, Assam",Northeast India,2024-06-27 07:41:00,Normal,Resolved,Missing Person,96.1,15
+Heatwave,"Ludhiana, Punjab",North India,2024-06-27 15:19:00,Normal,Resolved,Medical Emergency,133.2,19
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-27 18:18:00,Normal,Resolved,Medical Emergency,185.4,22
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-28 00:56:00,Normal,Cancelled,Evacuation,,18
+Flood,"Silchar, Assam",Northeast India,2024-06-28 03:03:00,Critical,Resolved,Medical Emergency,91.8,8
+Heatwave,"Cooch Behar, West Bengal",East India,2024-06-28 17:59:00,Critical,Cancelled,Evacuation,,4
+Heatwave,"Cooch Behar, West Bengal",East India,2024-06-29 06:34:00,Normal,Resolved,Evacuation,158.7,10
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-29 07:50:00,Normal,Resolved,Food & Water,94.9,16
+Flood,"Kozhikode, Kerala",South India,2024-06-29 13:21:00,Normal,Resolved,Medical Emergency,186.2,9
+Heatwave,"Guwahati, Assam",Northeast India,2024-06-29 17:28:00,Normal,Resolved,Power Failure,92.8,13
+Heatwave,"Ludhiana, Punjab",North India,2024-06-29 19:28:00,Critical,Resolved,Power Failure,101.5,16
+Heatwave,"Kullu, Himachal Pradesh",North India,2024-06-29 20:10:00,Normal,Resolved,Evacuation,122.8,23
+Flood,"Silchar, Assam",Northeast India,2024-06-30 15:39:00,Critical,Resolved,Evacuation,113.5,13
+Cloudburst,"Bilaspur, Chhattisgarh",Central India,2024-07-01 13:47:00,Normal,Cancelled,Medical Emergency,,21
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-02 16:20:00,Normal,Resolved,Evacuation,118.4,9
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-03 05:27:00,Normal,Cancelled,Stranded,,7
+Flood,"Visakhapatnam, Andhra Pradesh",South India,2024-07-03 05:54:00,Normal,Cancelled,Stranded,,18
+Heatwave,"Visakhapatnam, Andhra Pradesh",South India,2024-07-03 09:35:00,Normal,Cancelled,Medical Emergency,,23
+Heatwave,"Visakhapatnam, Andhra Pradesh",South India,2024-07-03 19:17:00,Critical,Resolved,Stranded,41.6,2
+Flood,"Ahmedabad, Gujarat",West India,2024-07-04 01:54:00,Critical,Cancelled,Power Failure,,15
+Heatwave,"Visakhapatnam, Andhra Pradesh",South India,2024-07-04 02:38:00,Normal,Resolved,Food & Water,241.7,16
+Flood,"Hubballi, Karnataka",South India,2024-07-04 11:51:00,Normal,Resolved,Evacuation,152,19
+Flood,"Hubballi, Karnataka",South India,2024-07-04 22:43:00,Normal,Resolved,Trapped,97,17
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-05 06:16:00,Normal,Resolved,Missing Person,186.3,1
+Flood,"Hubballi, Karnataka",South India,2024-07-05 17:01:00,Critical,Resolved,Medical Emergency,96,23
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-05 19:18:00,Normal,Cancelled,Missing Person,,15
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-05 22:47:00,Normal,Resolved,Power Failure,143.1,11
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-05 23:22:00,Normal,Resolved,Trapped,82.5,14
+Flood,"Visakhapatnam, Andhra Pradesh",South India,2024-07-06 00:10:00,Normal,Resolved,Evacuation,5.1,23
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-06 22:33:00,Normal,Cancelled,Food & Water,,1
+Flood,"Ahmedabad, Gujarat",West India,2024-07-07 05:55:00,Normal,Resolved,Power Failure,251.4,12
+Flood,"Ahmedabad, Gujarat",West India,2024-07-07 06:26:00,Normal,Resolved,Trapped,44.9,8
+Flood,"Kozhikode, Kerala",South India,2024-07-07 12:08:00,Normal,Resolved,Missing Person,60.8,7
+Flood,"Ponda, Goa",West India,2024-07-07 23:22:00,Critical,Cancelled,Food & Water,,12
+Flood,"Kozhikode, Kerala",South India,2024-07-08 09:26:00,Normal,Resolved,Evacuation,93.6,8
+Cloudburst,"Gwalior, Madhya Pradesh",Central India,2024-07-08 09:47:00,Normal,Cancelled,Medical Emergency,,19
+Flood,"Hubballi, Karnataka",South India,2024-07-08 15:14:00,Critical,Cancelled,Stranded,,13
+Flood,"Kozhikode, Kerala",South India,2024-07-08 19:04:00,Normal,Resolved,Food & Water,187.7,7
+Landslide,"Silchar, Assam",Northeast India,2024-07-09 02:24:00,Normal,Cancelled,Food & Water,,18
+Landslide,"Silchar, Assam",Northeast India,2024-07-09 05:04:00,Critical,Resolved,Food & Water,29.7,21
+Flood,"Ahmedabad, Gujarat",West India,2024-07-09 13:20:00,Normal,Resolved,Missing Person,113.1,20
+Flood,"Kozhikode, Kerala",South India,2024-07-10 03:18:00,Normal,Resolved,Medical Emergency,166.6,21
+Cloudburst,"Gwalior, Madhya Pradesh",Central India,2024-07-12 06:25:00,Normal,Cancelled,Trapped,,1
+Cloudburst,"Gwalior, Madhya Pradesh",Central India,2024-07-12 22:07:00,Normal,Resolved,Trapped,36.5,23
+Landslide,"Ranchi, Jharkhand",East India,2024-07-13 14:47:00,Critical,Resolved,Missing Person,63.2,9
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-13 14:56:00,Normal,Resolved,Medical Emergency,205.6,18
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2024-07-14 19:19:00,Normal,Cancelled,Power Failure,,19
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-07-15 17:05:00,Normal,Resolved,Medical Emergency,198.2,15
+Landslide,"Mangan, Sikkim",Northeast India,2024-07-15 17:55:00,Normal,Resolved,Food & Water,59,4
+Flood,"Anantnag, Jammu & Kashmir",North India,2024-07-16 00:43:00,Normal,Resolved,Trapped,154.7,23
+Flood,"Ranchi, Jharkhand",East India,2024-07-16 03:40:00,Normal,Resolved,Evacuation,77.4,6
+Flood,"Ranchi, Jharkhand",East India,2024-07-16 04:47:00,Critical,Resolved,Trapped,127.3,19
+Flood,"Lucknow, Uttar Pradesh",North India,2024-07-16 07:50:00,Normal,Cancelled,Evacuation,,2
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2024-07-16 17:44:00,Critical,Resolved,Missing Person,51.7,9
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2024-07-16 21:39:00,Normal,Resolved,Evacuation,200.4,9
+Flood,"Anantnag, Jammu & Kashmir",North India,2024-07-17 12:45:00,Normal,Resolved,Power Failure,48,23
+Flood,"Lucknow, Uttar Pradesh",North India,2024-07-18 06:41:00,Normal,Resolved,Food & Water,245.5,5
+Flood,"Lucknow, Uttar Pradesh",North India,2024-07-18 09:17:00,Normal,Resolved,Food & Water,172.7,16
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-18 11:08:00,Critical,Resolved,Stranded,98.9,24
+Flood,"Coimbatore, Tamil Nadu",South India,2024-07-18 12:35:00,Normal,Resolved,Missing Person,31.7,23
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2024-07-18 14:41:00,Normal,Resolved,Stranded,83.7,9
+Flood,"Anantnag, Jammu & Kashmir",North India,2024-07-19 01:28:00,Critical,Resolved,Stranded,12.6,9
+Flood,"Lucknow, Uttar Pradesh",North India,2024-07-19 04:09:00,Normal,Resolved,Stranded,67.2,21
+Cloudburst,"Ahmedabad, Gujarat",West India,2024-07-19 11:00:00,Critical,Resolved,Medical Emergency,129.2,6
+Flood,"Coimbatore, Tamil Nadu",South India,2024-07-19 20:38:00,Critical,Resolved,Stranded,79.4,23
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-20 01:12:00,Critical,Resolved,Power Failure,111.7,19
+Earthquake,"Gorakhpur, Uttar Pradesh",North India,2024-07-20 05:33:00,Critical,Cancelled,Stranded,,23
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-20 14:31:00,Critical,Cancelled,Food & Water,,22
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-20 19:37:00,Normal,Resolved,Medical Emergency,111.3,19
+Flood,"Coimbatore, Tamil Nadu",South India,2024-07-20 20:19:00,Normal,Cancelled,Trapped,,20
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-21 01:49:00,Normal,Cancelled,Power Failure,,10
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-21 19:03:00,Critical,Cancelled,Power Failure,,15
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-21 22:24:00,Normal,Resolved,Food & Water,36.7,20
+Flood,"Lucknow, Uttar Pradesh",North India,2024-07-21 23:40:00,Normal,Cancelled,Medical Emergency,,2
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-07-22 01:59:00,Normal,Cancelled,Medical Emergency,,2
+Flood,"Coimbatore, Tamil Nadu",South India,2024-07-22 09:29:00,Critical,Cancelled,Stranded,,23
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-07-22 09:50:00,Normal,Resolved,Food & Water,224.9,17
+Cloudburst,"Pasighat, Arunachal Pradesh",Northeast India,2024-07-22 20:25:00,Critical,Resolved,Stranded,97.3,3
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-23 00:06:00,Normal,Resolved,Evacuation,26.8,21
+Cloudburst,"Dibrugarh, Assam",Northeast India,2024-07-23 02:16:00,Normal,Resolved,Missing Person,203.1,9
+Flood,"Namchi, Sikkim",Northeast India,2024-07-23 02:36:00,Normal,Resolved,Food & Water,210.6,19
+Flood,"Coimbatore, Tamil Nadu",South India,2024-07-24 03:17:00,Normal,Resolved,Medical Emergency,72.2,6
+Flood,"Namchi, Sikkim",Northeast India,2024-07-24 05:07:00,Critical,Resolved,Missing Person,27.1,6
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-24 11:10:00,Normal,Resolved,Food & Water,151.4,2
+Cloudburst,"Ahmedabad, Gujarat",West India,2024-07-24 15:05:00,Normal,Resolved,Trapped,64,7
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-24 17:31:00,Normal,Resolved,Power Failure,236.4,10
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-07-24 17:31:00,Normal,Resolved,Evacuation,107.7,19
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-25 00:34:00,Normal,Cancelled,Food & Water,,15
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-25 08:27:00,Normal,Cancelled,Medical Emergency,,22
+Flood,"Bhubaneswar, Odisha",East India,2024-07-26 00:08:00,Normal,Cancelled,Missing Person,,13
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-26 03:52:00,Normal,Resolved,Missing Person,37.2,5
+Cloudburst,"Pasighat, Arunachal Pradesh",Northeast India,2024-07-26 14:20:00,Normal,Resolved,Food & Water,26.1,24
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-26 15:33:00,Normal,Resolved,Missing Person,178.1,3
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-26 22:36:00,Critical,Resolved,Medical Emergency,24.4,1
+Flood,"Jamshedpur, Jharkhand",East India,2024-07-26 22:49:00,Critical,Cancelled,Food & Water,,14
+Cloudburst,"Pasighat, Arunachal Pradesh",Northeast India,2024-07-27 04:28:00,Normal,Resolved,Medical Emergency,140.9,5
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-27 07:25:00,Normal,Resolved,Food & Water,121.5,19
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-07-27 07:54:00,Normal,Cancelled,Trapped,,11
+Landslide,"Dibrugarh, Assam",Northeast India,2024-07-27 13:08:00,Normal,Cancelled,Food & Water,,11
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-27 17:06:00,Normal,Resolved,Trapped,225.1,18
+Flood,"Gwalior, Madhya Pradesh",Central India,2024-07-28 02:26:00,Normal,Resolved,Missing Person,109.2,3
+Flood,"Namchi, Sikkim",Northeast India,2024-07-28 10:54:00,Normal,Cancelled,Power Failure,,19
+Flood,"Namchi, Sikkim",Northeast India,2024-07-28 12:56:00,Normal,Resolved,Food & Water,70.9,10
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-28 14:20:00,Critical,Resolved,Stranded,35,3
+Flood,"Namchi, Sikkim",Northeast India,2024-07-29 01:05:00,Critical,Resolved,Trapped,40.5,12
+Flood,"Nizamabad, Telangana",South India,2024-07-29 12:25:00,Critical,Resolved,Trapped,37.3,24
+Landslide,"Rudraprayag, Uttarakhand",North India,2024-07-29 12:28:00,Normal,Resolved,Trapped,63.5,9
+Flood,"Bhubaneswar, Odisha",East India,2024-07-29 18:33:00,Normal,Resolved,Evacuation,101,1
+Flood,"Nizamabad, Telangana",South India,2024-07-30 02:02:00,Normal,Cancelled,Trapped,,2
+Flood,"Tiruchirappalli, Tamil Nadu",South India,2024-07-30 09:16:00,Normal,Cancelled,Trapped,,10
+Landslide,"Guwahati, Assam",Northeast India,2024-07-30 09:45:00,Normal,Cancelled,Power Failure,,2
+Flood,"Bhubaneswar, Odisha",East India,2024-07-30 18:50:00,Critical,Resolved,Evacuation,73.6,7
+Landslide,"Gangtok, Sikkim",Northeast India,2024-07-31 09:40:00,Normal,Cancelled,Trapped,,21
+Flood,"Bhubaneswar, Odisha",East India,2024-07-31 11:16:00,Normal,Resolved,Food & Water,149.4,11
+Flood,"Bhubaneswar, Odisha",East India,2024-07-31 17:12:00,Normal,Resolved,Trapped,93.9,12
+Landslide,"Dibrugarh, Assam",Northeast India,2024-08-02 09:24:00,Normal,Resolved,Power Failure,250.3,5
+Cloudburst,"Coimbatore, Tamil Nadu",South India,2024-08-03 05:19:00,Normal,Resolved,Missing Person,150.3,16
+Flood,"Patna, Bihar",East India,2024-08-04 22:55:00,Normal,Cancelled,Power Failure,,13
+Cloudburst,"Hubballi, Karnataka",South India,2024-08-04 23:36:00,Normal,Resolved,Power Failure,115,6
+Landslide,"Rudraprayag, Uttarakhand",North India,2024-08-05 05:13:00,Critical,Cancelled,Trapped,,15
+Landslide,"Rudraprayag, Uttarakhand",North India,2024-08-07 01:26:00,Critical,Cancelled,Evacuation,,10
+Landslide,"Rudraprayag, Uttarakhand",North India,2024-08-07 09:12:00,Normal,Resolved,Evacuation,214.4,12
+Flood,"Patna, Bihar",East India,2024-08-08 22:38:00,Normal,Resolved,Missing Person,221.6,17
+Flood,"Patna, Bihar",East India,2024-08-09 20:26:00,Normal,Resolved,Trapped,7.4,7
+Cloudburst,"Hubballi, Karnataka",South India,2024-08-12 14:32:00,Normal,Cancelled,Stranded,,21
+Flood,"Ranchi, Jharkhand",East India,2024-08-12 15:58:00,Normal,Resolved,Power Failure,172.6,1
+Flood,"Ranchi, Jharkhand",East India,2024-08-12 19:43:00,Normal,Resolved,Food & Water,165.5,17
+Flood,"Bhuj, Gujarat",West India,2024-08-14 15:47:00,Normal,Cancelled,Trapped,,20
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-08-14 17:59:00,Normal,Resolved,Medical Emergency,150.5,24
+Earthquake,"Puri, Odisha",East India,2024-08-14 21:57:00,Critical,Resolved,Power Failure,115,16
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-08-15 02:35:00,Normal,Resolved,Power Failure,200,14
+Flood,"Jaipur, Rajasthan",North India,2024-08-15 13:51:00,Normal,Resolved,Missing Person,211.5,18
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-08-15 23:52:00,Critical,Resolved,Missing Person,27.5,22
+Flood,"Bhuj, Gujarat",West India,2024-08-16 03:44:00,Normal,Cancelled,Evacuation,,24
+Flood,"Jaipur, Rajasthan",North India,2024-08-16 14:29:00,Normal,Resolved,Food & Water,54,2
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-08-16 17:24:00,Normal,Resolved,Evacuation,98.7,6
+Flood,"Jaipur, Rajasthan",North India,2024-08-17 02:57:00,Normal,Cancelled,Trapped,,20
+Flood,"Bhuj, Gujarat",West India,2024-08-17 09:47:00,Normal,Resolved,Medical Emergency,94.4,17
+Flood,"Ranchi, Jharkhand",East India,2024-08-17 11:18:00,Normal,Resolved,Evacuation,99.1,6
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-08-18 03:42:00,Normal,Cancelled,Medical Emergency,,24
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-18 05:31:00,Critical,Cancelled,Stranded,,3
+Flood,"Ranchi, Jharkhand",East India,2024-08-18 05:52:00,Critical,Resolved,Evacuation,31.2,18
+Flood,"Ranchi, Jharkhand",East India,2024-08-18 13:43:00,Normal,Resolved,Evacuation,11.6,17
+Flood,"Jaipur, Rajasthan",North India,2024-08-18 20:42:00,Critical,Cancelled,Missing Person,,22
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-18 21:17:00,Normal,Resolved,Stranded,118.1,15
+Flood,"Jaipur, Rajasthan",North India,2024-08-19 23:22:00,Normal,Resolved,Missing Person,259.6,6
+Flood,"Surat, Gujarat",West India,2024-08-20 01:44:00,Normal,Resolved,Trapped,199.6,20
+Flood,"Surat, Gujarat",West India,2024-08-20 15:58:00,Normal,Cancelled,Evacuation,,10
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-21 13:18:00,Normal,Cancelled,Medical Emergency,,8
+Flood,"Surat, Gujarat",West India,2024-08-21 23:06:00,Normal,Resolved,Medical Emergency,62.8,22
+Flood,"Surat, Gujarat",West India,2024-08-22 00:00:00,Normal,Cancelled,Food & Water,,10
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-22 03:15:00,Critical,Cancelled,Missing Person,,4
+Earthquake,"Guwahati, Assam",Northeast India,2024-08-22 09:23:00,Critical,Resolved,Evacuation,62.8,16
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-22 21:03:00,Normal,Resolved,Stranded,144.6,18
+Flood,"Surat, Gujarat",West India,2024-08-23 08:11:00,Critical,Resolved,Power Failure,10.5,16
+Flood,"Surat, Gujarat",West India,2024-08-23 12:37:00,Critical,Resolved,Evacuation,16.3,23
+Flood,"Nellore, Andhra Pradesh",South India,2024-08-23 20:13:00,Normal,Cancelled,Food & Water,,9
+Cloudburst,"Guwahati, Assam",Northeast India,2024-08-24 04:14:00,Critical,Resolved,Trapped,129.9,18
+Landslide,"Shillong, Meghalaya",Northeast India,2024-08-24 20:00:00,Normal,Cancelled,Food & Water,,20
+Earthquake,"Guwahati, Assam",Northeast India,2024-08-24 21:04:00,Critical,Cancelled,Evacuation,,18
+Flood,"Jamshedpur, Jharkhand",East India,2024-08-24 23:08:00,Critical,Cancelled,Power Failure,,5
+Flood,"Jamshedpur, Jharkhand",East India,2024-08-25 08:32:00,Normal,Resolved,Missing Person,133.1,4
+Flood,"Jamshedpur, Jharkhand",East India,2024-08-25 13:40:00,Critical,Cancelled,Trapped,,20
+Earthquake,"Guwahati, Assam",Northeast India,2024-08-25 16:41:00,Normal,Resolved,Food & Water,13.1,5
+Flood,"Surat, Gujarat",West India,2024-08-25 21:32:00,Normal,Resolved,Power Failure,208.8,6
+Flood,"Jamshedpur, Jharkhand",East India,2024-08-27 02:57:00,Normal,Resolved,Evacuation,31.7,20
+Landslide,"Hubballi, Karnataka",South India,2024-08-27 04:51:00,Normal,Cancelled,Power Failure,,9
+Flood,"Jamshedpur, Jharkhand",East India,2024-08-28 03:48:00,Normal,Resolved,Evacuation,138.2,6
+Landslide,"Thrissur, Kerala",South India,2024-08-28 06:40:00,Normal,Cancelled,Missing Person,,23
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-08-29 21:37:00,Critical,Cancelled,Evacuation,,8
+Flood,"Pune, Maharashtra",West India,2024-08-30 03:49:00,Normal,Resolved,Missing Person,32.9,9
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-08-30 23:52:00,Critical,Cancelled,Medical Emergency,,6
+Flood,"Muzaffarpur, Bihar",East India,2024-09-02 07:57:00,Normal,Resolved,Trapped,48.1,2
+Flood,"Muzaffarpur, Bihar",East India,2024-09-02 18:12:00,Normal,Resolved,Food & Water,96.6,10
+Flood,"Pune, Maharashtra",West India,2024-09-02 18:31:00,Normal,Resolved,Trapped,221.8,10
+Flood,"Muzaffarpur, Bihar",East India,2024-09-02 23:34:00,Normal,Cancelled,Evacuation,,6
+Cloudburst,"Barmer, Rajasthan",North India,2024-09-03 23:45:00,Critical,Cancelled,Evacuation,,5
+Flood,"Muzaffarpur, Bihar",East India,2024-09-04 07:23:00,Normal,Resolved,Missing Person,157.3,19
+Flood,"Muzaffarpur, Bihar",East India,2024-09-04 20:11:00,Normal,Resolved,Evacuation,156.5,7
+Flood,"Muzaffarpur, Bihar",East India,2024-09-05 06:04:00,Normal,Resolved,Food & Water,161.6,5
+Flood,"Muzaffarpur, Bihar",East India,2024-09-05 18:23:00,Critical,Resolved,Evacuation,9.8,12
+Landslide,"Lucknow, Uttar Pradesh",North India,2024-09-06 10:33:00,Normal,Resolved,Medical Emergency,99.7,22
+Landslide,"Margao, Goa",West India,2024-09-07 10:28:00,Normal,Cancelled,Power Failure,,13
+Cloudburst,"Nellore, Andhra Pradesh",South India,2024-09-07 14:44:00,Normal,Resolved,Missing Person,257.4,3
+Cloudburst,"Barmer, Rajasthan",North India,2024-09-07 15:33:00,Normal,Resolved,Food & Water,174,3
+Cloudburst,"Jodhpur, Rajasthan",North India,2024-09-08 11:04:00,Normal,Resolved,Stranded,56.6,18
+Cloudburst,"Jodhpur, Rajasthan",North India,2024-09-08 19:47:00,Critical,Resolved,Stranded,118.4,12
+Flood,"Ponda, Goa",West India,2024-09-09 01:21:00,Normal,Resolved,Medical Emergency,44.1,8
+Landslide,"Pasighat, Arunachal Pradesh",Northeast India,2024-09-09 02:27:00,Normal,Cancelled,Missing Person,,2
+Flood,"Pasighat, Arunachal Pradesh",Northeast India,2024-09-10 00:27:00,Normal,Cancelled,Stranded,,19
+Flood,"Amritsar, Punjab",North India,2024-09-10 10:08:00,Normal,Resolved,Stranded,219.4,1
+Flood,"Ponda, Goa",West India,2024-09-10 13:32:00,Normal,Cancelled,Evacuation,,20
+Flood,"Amritsar, Punjab",North India,2024-09-10 23:23:00,Normal,Resolved,Medical Emergency,246.6,6
+Flood,"Amritsar, Punjab",North India,2024-09-11 23:05:00,Normal,Cancelled,Medical Emergency,,22
+Flood,"Ponda, Goa",West India,2024-09-11 23:40:00,Critical,Cancelled,Evacuation,,22
+Flood,"Amritsar, Punjab",North India,2024-09-13 08:37:00,Normal,Resolved,Missing Person,11.3,5
+Flood,"Ponda, Goa",West India,2024-09-13 10:55:00,Normal,Cancelled,Evacuation,,23
+Flood,"Amritsar, Punjab",North India,2024-09-14 12:55:00,Normal,Resolved,Stranded,251.4,5
+Flood,"Ponda, Goa",West India,2024-09-14 17:16:00,Critical,Resolved,Food & Water,17.3,20
+Landslide,"Chennai, Tamil Nadu",South India,2024-09-16 08:33:00,Normal,Resolved,Stranded,31.2,10
+Flood,"Muzaffarpur, Bihar",East India,2024-09-17 16:02:00,Normal,Resolved,Food & Water,159.1,15
+Flood,"Muzaffarpur, Bihar",East India,2024-09-18 00:50:00,Normal,Cancelled,Stranded,,13
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-09-18 03:09:00,Normal,Cancelled,Missing Person,,20
+Flood,"Muzaffarpur, Bihar",East India,2024-09-19 04:15:00,Normal,Resolved,Trapped,242.2,9
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-09-20 03:30:00,Normal,Resolved,Stranded,52,2
+Flood,"Bhopal, Madhya Pradesh",Central India,2024-09-20 07:45:00,Normal,Resolved,Trapped,33.7,8
+Flood,"Raipur, Chhattisgarh",Central India,2024-09-23 17:43:00,Normal,Resolved,Medical Emergency,36.8,14
+Landslide,"Tawang, Arunachal Pradesh",Northeast India,2024-09-25 04:08:00,Critical,Resolved,Medical Emergency,21.6,24
+Landslide,"Tawang, Arunachal Pradesh",Northeast India,2024-09-25 06:51:00,Critical,Cancelled,Medical Emergency,,21
+Flood,"Raipur, Chhattisgarh",Central India,2024-09-25 13:19:00,Normal,Resolved,Power Failure,245.1,5
+Flood,"Raipur, Chhattisgarh",Central India,2024-09-26 13:53:00,Normal,Resolved,Food & Water,68.4,24
+Flood,"Raipur, Chhattisgarh",Central India,2024-09-26 17:43:00,Normal,Cancelled,Food & Water,,12
+Landslide,"Tawang, Arunachal Pradesh",Northeast India,2024-09-27 07:06:00,Normal,Resolved,Trapped,212.8,5
+Landslide,"Mumbai, Maharashtra",West India,2024-09-27 12:22:00,Critical,Resolved,Power Failure,125.7,10
+Earthquake,"Jammu, Jammu & Kashmir",North India,2024-09-28 03:02:00,Normal,Cancelled,Missing Person,,15
+Earthquake,"Jammu, Jammu & Kashmir",North India,2024-09-28 21:22:00,Normal,Cancelled,Evacuation,,3
+Earthquake,"Jammu, Jammu & Kashmir",North India,2024-10-01 01:13:00,Normal,Resolved,Missing Person,110.4,21
+Cyclone,"Hubballi, Karnataka",South India,2024-10-01 11:42:00,Critical,Cancelled,Missing Person,,15
+Cyclone,"Hubballi, Karnataka",South India,2024-10-01 20:55:00,Critical,Cancelled,Missing Person,,18
+Cyclone,"Hubballi, Karnataka",South India,2024-10-02 04:34:00,Normal,Resolved,Medical Emergency,239.9,3
+Cyclone,"Darbhanga, Bihar",East India,2024-10-02 04:48:00,Normal,Cancelled,Evacuation,,19
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-02 08:22:00,Critical,Resolved,Missing Person,54.1,9
+Cyclone,"Darbhanga, Bihar",East India,2024-10-03 06:40:00,Normal,Resolved,Medical Emergency,10.9,8
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-03 08:16:00,Critical,Cancelled,Trapped,,8
+Cyclone,"Darbhanga, Bihar",East India,2024-10-03 11:41:00,Normal,Cancelled,Stranded,,21
+Flood,"Panaji, Goa",West India,2024-10-04 01:06:00,Normal,Resolved,Stranded,151.6,5
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-04 10:20:00,Critical,Resolved,Trapped,81.1,10
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-04 13:50:00,Normal,Resolved,Evacuation,93.3,16
+Cyclone,"Hubballi, Karnataka",South India,2024-10-04 15:04:00,Critical,Cancelled,Power Failure,,6
+Cyclone,"Darbhanga, Bihar",East India,2024-10-04 15:42:00,Normal,Resolved,Trapped,136.8,15
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-04 16:26:00,Critical,Resolved,Stranded,37.9,18
+Flood,"Shillong, Meghalaya",Northeast India,2024-10-04 18:59:00,Normal,Resolved,Evacuation,235.2,19
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-04 20:36:00,Normal,Cancelled,Power Failure,,4
+Flood,"Panaji, Goa",West India,2024-10-05 06:07:00,Critical,Cancelled,Power Failure,,14
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-05 16:30:00,Critical,Resolved,Stranded,121.3,11
+Cloudburst,"Hubballi, Karnataka",South India,2024-10-05 23:04:00,Normal,Resolved,Missing Person,159.1,6
+Flood,"Shillong, Meghalaya",Northeast India,2024-10-06 08:51:00,Normal,Resolved,Stranded,43.5,23
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-06 11:42:00,Normal,Cancelled,Evacuation,,4
+Flood,"Shillong, Meghalaya",Northeast India,2024-10-06 12:03:00,Normal,Resolved,Trapped,246.2,18
+Flood,"Shillong, Meghalaya",Northeast India,2024-10-06 12:58:00,Critical,Resolved,Trapped,56.6,14
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-06 14:27:00,Normal,Cancelled,Evacuation,,22
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-10-06 14:32:00,Normal,Resolved,Missing Person,75.6,12
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-06 21:45:00,Critical,Resolved,Medical Emergency,67.8,18
+Cloudburst,"Bhopal, Madhya Pradesh",Central India,2024-10-07 01:42:00,Normal,Resolved,Trapped,147.4,10
+Cyclone,"Tiruchirappalli, Tamil Nadu",South India,2024-10-07 12:16:00,Critical,Resolved,Evacuation,55.9,15
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-07 17:10:00,Normal,Cancelled,Power Failure,,8
+Flood,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-08 00:34:00,Normal,Resolved,Medical Emergency,69,11
+Flood,"Panaji, Goa",West India,2024-10-08 10:56:00,Normal,Resolved,Missing Person,107.4,7
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-10-09 06:00:00,Normal,Cancelled,Food & Water,,14
+Flood,"Shillong, Meghalaya",Northeast India,2024-10-09 08:18:00,Normal,Resolved,Food & Water,20.9,4
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-10-09 19:36:00,Normal,Resolved,Medical Emergency,235,6
+Cyclone,"Jamshedpur, Jharkhand",East India,2024-10-09 23:36:00,Normal,Resolved,Stranded,52.1,3
+Cyclone,"Kolkata, West Bengal",East India,2024-10-10 05:08:00,Normal,Cancelled,Medical Emergency,,7
+Flood,"Hyderabad, Telangana",South India,2024-10-10 09:46:00,Normal,Resolved,Power Failure,137.8,8
+Cloudburst,"Bhopal, Madhya Pradesh",Central India,2024-10-10 17:23:00,Normal,Resolved,Evacuation,197.5,10
+Cyclone,"Kolkata, West Bengal",East India,2024-10-11 14:06:00,Normal,Cancelled,Power Failure,,23
+Cyclone,"Kolkata, West Bengal",East India,2024-10-11 23:53:00,Critical,Cancelled,Trapped,,22
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-12 11:51:00,Normal,Resolved,Power Failure,153.4,23
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-12 13:06:00,Normal,Cancelled,Evacuation,,16
+Flood,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-12 23:14:00,Normal,Cancelled,Trapped,,16
+Flood,"Hyderabad, Telangana",South India,2024-10-13 08:55:00,Normal,Resolved,Medical Emergency,200.5,16
+Flood,"Srinagar, Jammu & Kashmir",North India,2024-10-13 12:21:00,Normal,Resolved,Power Failure,218.5,21
+Flood,"Srinagar, Jammu & Kashmir",North India,2024-10-14 06:22:00,Normal,Resolved,Food & Water,138.2,1
+Flood,"Srinagar, Jammu & Kashmir",North India,2024-10-14 19:08:00,Normal,Resolved,Stranded,210.8,17
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-15 03:33:00,Normal,Resolved,Power Failure,259.2,5
+Cloudburst,"Nellore, Andhra Pradesh",South India,2024-10-15 15:35:00,Critical,Resolved,Missing Person,89.5,21
+Cloudburst,"Mangan, Sikkim",Northeast India,2024-10-15 18:47:00,Normal,Resolved,Stranded,245.6,7
+Flood,"Margao, Goa",West India,2024-10-15 19:58:00,Normal,Resolved,Missing Person,169,17
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-10-16 05:13:00,Critical,Resolved,Medical Emergency,56,1
+Flood,"Jabalpur, Madhya Pradesh",Central India,2024-10-16 11:21:00,Normal,Cancelled,Evacuation,,24
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-16 11:37:00,Normal,Resolved,Food & Water,121.9,8
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-16 16:54:00,Normal,Cancelled,Stranded,,18
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-16 16:57:00,Normal,Cancelled,Medical Emergency,,1
+Flood,"Margao, Goa",West India,2024-10-16 22:21:00,Normal,Resolved,Missing Person,69.5,6
+Flood,"Gangtok, Sikkim",Northeast India,2024-10-17 08:58:00,Normal,Resolved,Power Failure,166.2,13
+Flood,"Srinagar, Jammu & Kashmir",North India,2024-10-17 13:11:00,Normal,Cancelled,Missing Person,,11
+Cloudburst,"Nellore, Andhra Pradesh",South India,2024-10-17 22:29:00,Critical,Cancelled,Power Failure,,3
+Cloudburst,"Mangan, Sikkim",Northeast India,2024-10-18 14:48:00,Normal,Resolved,Food & Water,62.7,21
+Cloudburst,"Nellore, Andhra Pradesh",South India,2024-10-19 03:54:00,Normal,Resolved,Trapped,120.1,16
+Flood,"Margao, Goa",West India,2024-10-19 23:04:00,Critical,Resolved,Power Failure,80.8,11
+Cloudburst,"Srinagar, Jammu & Kashmir",North India,2024-10-21 23:25:00,Normal,Resolved,Trapped,217,19
+Flood,"Siliguri, West Bengal",East India,2024-10-25 04:25:00,Normal,Resolved,Food & Water,74.2,14
+Flood,"Siliguri, West Bengal",East India,2024-10-26 08:59:00,Normal,Cancelled,Trapped,,8
+Earthquake,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-27 01:59:00,Critical,Resolved,Evacuation,107.6,22
+Earthquake,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-27 13:11:00,Normal,Resolved,Evacuation,235.3,8
+Flood,"Siliguri, West Bengal",East India,2024-10-29 04:58:00,Normal,Resolved,Stranded,192,6
+Flood,"Siliguri, West Bengal",East India,2024-10-29 08:55:00,Normal,Resolved,Food & Water,244.8,19
+Flood,"Siliguri, West Bengal",East India,2024-10-29 10:30:00,Normal,Resolved,Food & Water,98.9,7
+Flood,"Siliguri, West Bengal",East India,2024-10-29 13:37:00,Normal,Resolved,Medical Emergency,72.2,1
+Earthquake,"Pasighat, Arunachal Pradesh",Northeast India,2024-10-31 13:45:00,Normal,Cancelled,Stranded,,12
+Cyclone,"Mumbai, Maharashtra",West India,2024-11-02 04:55:00,Normal,Cancelled,Missing Person,,11
+Cyclone,"Margao, Goa",West India,2024-11-03 05:50:00,Normal,Cancelled,Evacuation,,17
+Cyclone,"Margao, Goa",West India,2024-11-03 10:37:00,Normal,Resolved,Evacuation,235.1,19
+Cyclone,"Mumbai, Maharashtra",West India,2024-11-04 00:01:00,Normal,Resolved,Power Failure,174.6,6
+Cyclone,"Mumbai, Maharashtra",West India,2024-11-04 07:51:00,Normal,Resolved,Missing Person,140.4,20
+Cyclone,"Margao, Goa",West India,2024-11-04 23:26:00,Normal,Cancelled,Power Failure,,14
+Cyclone,"Nizamabad, Telangana",South India,2024-11-05 04:13:00,Normal,Cancelled,Evacuation,,4
+Cyclone,"Nizamabad, Telangana",South India,2024-11-05 06:10:00,Normal,Resolved,Trapped,93.3,6
+Cyclone,"Mumbai, Maharashtra",West India,2024-11-05 08:03:00,Normal,Resolved,Stranded,204.5,6
+Cyclone,"Nizamabad, Telangana",South India,2024-11-05 09:47:00,Critical,Resolved,Medical Emergency,39.1,6
+Cyclone,"Mumbai, Maharashtra",West India,2024-11-05 21:47:00,Normal,Cancelled,Power Failure,,20
+Cyclone,"Nizamabad, Telangana",South India,2024-11-08 18:46:00,Critical,Resolved,Medical Emergency,44.6,19
+Cyclone,"Ranchi, Jharkhand",East India,2024-11-09 03:19:00,Critical,Cancelled,Food & Water,,18
+Cyclone,"Nizamabad, Telangana",South India,2024-11-09 13:27:00,Critical,Cancelled,Missing Person,,3
+Cyclone,"Ranchi, Jharkhand",East India,2024-11-11 11:25:00,Normal,Resolved,Evacuation,35.7,4
+Cyclone,"Ranchi, Jharkhand",East India,2024-11-13 13:22:00,Normal,Resolved,Power Failure,17.2,14
+Cyclone,"Bhubaneswar, Odisha",East India,2024-11-15 16:23:00,Critical,Resolved,Stranded,82.7,21
+Cyclone,"Bhubaneswar, Odisha",East India,2024-11-15 16:52:00,Critical,Resolved,Evacuation,62,5
+Cyclone,"Bhubaneswar, Odisha",East India,2024-11-16 01:30:00,Critical,Resolved,Power Failure,103.5,10
+Cyclone,"Bhubaneswar, Odisha",East India,2024-11-16 21:23:00,Critical,Resolved,Evacuation,92.2,9
+Cyclone,"Kolkata, West Bengal",East India,2024-11-20 13:35:00,Normal,Resolved,Food & Water,225.8,10
+Earthquake,"Jowai, Meghalaya",Northeast India,2024-11-21 04:01:00,Normal,Resolved,Medical Emergency,134.6,17
+Earthquake,"Jowai, Meghalaya",Northeast India,2024-11-22 11:35:00,Normal,Resolved,Evacuation,66.5,8
+Cyclone,"Kolkata, West Bengal",East India,2024-11-22 13:19:00,Critical,Cancelled,Evacuation,,9
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-11-23 09:40:00,Normal,Resolved,Evacuation,74.4,13
+Cyclone,"Kolkata, West Bengal",East India,2024-11-23 09:42:00,Critical,Resolved,Stranded,66.3,17
+Earthquake,"Gwalior, Madhya Pradesh",Central India,2024-11-24 04:57:00,Normal,Resolved,Power Failure,192.5,24
+Earthquake,"Gwalior, Madhya Pradesh",Central India,2024-11-25 02:32:00,Normal,Resolved,Power Failure,79.8,16
+Earthquake,"Itanagar, Arunachal Pradesh",Northeast India,2024-11-26 19:54:00,Critical,Cancelled,Stranded,,3
+Earthquake,"Mumbai, Maharashtra",West India,2024-11-30 07:25:00,Normal,Resolved,Missing Person,259.4,11
+Drought,"Shillong, Meghalaya",Northeast India,2024-12-02 08:24:00,Critical,Cancelled,Stranded,,17
+Earthquake,"Mumbai, Maharashtra",West India,2024-12-02 12:45:00,Normal,Cancelled,Power Failure,,22
+Earthquake,"Mumbai, Maharashtra",West India,2024-12-03 21:19:00,Normal,Resolved,Evacuation,47.6,18
+Cold Wave,"Chamoli, Uttarakhand",North India,2024-12-05 00:12:00,Normal,Resolved,Food & Water,96.4,17
+Drought,"Shillong, Meghalaya",Northeast India,2024-12-05 07:25:00,Normal,Resolved,Evacuation,75.9,12
+Cold Wave,"Chamoli, Uttarakhand",North India,2024-12-05 10:13:00,Normal,Resolved,Stranded,114.4,11
+Cyclone,"Mumbai, Maharashtra",West India,2024-12-05 17:06:00,Normal,Resolved,Power Failure,162.6,10
+Cyclone,"Mumbai, Maharashtra",West India,2024-12-06 09:59:00,Critical,Resolved,Stranded,75.6,20
+Cold Wave,"Chamoli, Uttarakhand",North India,2024-12-06 12:54:00,Critical,Cancelled,Stranded,,1
+Drought,"Ahmedabad, Gujarat",West India,2024-12-07 02:54:00,Normal,Cancelled,Missing Person,,3
+Drought,"Shillong, Meghalaya",Northeast India,2024-12-07 22:30:00,Normal,Resolved,Evacuation,17.6,20
+Drought,"Ahmedabad, Gujarat",West India,2024-12-09 20:28:00,Normal,Resolved,Trapped,7.2,5
+Cyclone,"Kolkata, West Bengal",East India,2024-12-10 04:43:00,Critical,Resolved,Medical Emergency,91,21
+Cyclone,"Kolkata, West Bengal",East India,2024-12-10 08:18:00,Normal,Cancelled,Medical Emergency,,12
+Drought,"Ahmedabad, Gujarat",West India,2024-12-10 11:22:00,Critical,Resolved,Trapped,60.5,24
+Cyclone,"Mumbai, Maharashtra",West India,2024-12-10 15:48:00,Critical,Cancelled,Evacuation,,3
+Cold Wave,"Shimla, Himachal Pradesh",North India,2024-12-10 16:47:00,Critical,Resolved,Trapped,33.8,1
+Drought,"Ahmedabad, Gujarat",West India,2024-12-10 20:15:00,Normal,Resolved,Trapped,172.5,1
+Cyclone,"Ponda, Goa",West India,2024-12-11 04:34:00,Normal,Cancelled,Missing Person,,12
+Cold Wave,"Shimla, Himachal Pradesh",North India,2024-12-12 03:10:00,Critical,Resolved,Food & Water,30.3,17
+Cyclone,"Kolkata, West Bengal",East India,2024-12-12 06:15:00,Normal,Resolved,Food & Water,194.7,10
+Drought,"Ahmedabad, Gujarat",West India,2024-12-12 15:31:00,Critical,Resolved,Evacuation,74.7,21
+Cyclone,"Kolkata, West Bengal",East India,2024-12-14 01:40:00,Critical,Resolved,Evacuation,66.3,9
+Cold Wave,"Jabalpur, Madhya Pradesh",Central India,2024-12-14 23:20:00,Critical,Resolved,Medical Emergency,52.9,13
+Cyclone,"Kolkata, West Bengal",East India,2024-12-15 04:14:00,Normal,Cancelled,Trapped,,10
+Drought,"Bhuj, Gujarat",West India,2024-12-15 21:19:00,Normal,Resolved,Missing Person,172.8,23
+Cyclone,"Ponda, Goa",West India,2024-12-16 01:23:00,Normal,Resolved,Food & Water,172.7,11
+Cyclone,"Ponda, Goa",West India,2024-12-16 04:35:00,Critical,Cancelled,Power Failure,,6
+Cold Wave,"Jabalpur, Madhya Pradesh",Central India,2024-12-16 11:30:00,Normal,Resolved,Food & Water,81.6,6
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-16 13:10:00,Normal,Cancelled,Trapped,,13
+Cyclone,"Ponda, Goa",West India,2024-12-16 22:01:00,Normal,Cancelled,Trapped,,23
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2024-12-17 06:05:00,Normal,Cancelled,Missing Person,,17
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2024-12-17 06:47:00,Critical,Cancelled,Food & Water,,19
+Drought,"Bhuj, Gujarat",West India,2024-12-17 13:56:00,Normal,Resolved,Evacuation,225.1,19
+Cyclone,"Ranchi, Jharkhand",East India,2024-12-17 14:53:00,Normal,Resolved,Trapped,250,24
+Cyclone,"Ponda, Goa",West India,2024-12-17 20:30:00,Normal,Cancelled,Trapped,,11
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2024-12-18 01:38:00,Normal,Cancelled,Evacuation,,9
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-18 15:08:00,Normal,Cancelled,Medical Emergency,,9
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-18 18:50:00,Critical,Cancelled,Trapped,,9
+Cyclone,"Ranchi, Jharkhand",East India,2024-12-18 19:14:00,Normal,Cancelled,Food & Water,,6
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-19 02:43:00,Normal,Resolved,Stranded,121.9,14
+Drought,"Korba, Chhattisgarh",Central India,2024-12-19 09:53:00,Normal,Cancelled,Missing Person,,15
+Earthquake,"Shillong, Meghalaya",Northeast India,2024-12-19 20:27:00,Normal,Resolved,Missing Person,84.1,12
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2024-12-20 00:36:00,Critical,Resolved,Evacuation,78.6,15
+Cold Wave,"Jabalpur, Madhya Pradesh",Central India,2024-12-20 01:16:00,Normal,Resolved,Food & Water,97.6,3
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-20 17:21:00,Critical,Resolved,Power Failure,94.2,23
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-21 00:42:00,Critical,Resolved,Power Failure,99.8,8
+Drought,"Surat, Gujarat",West India,2024-12-21 04:00:00,Normal,Cancelled,Trapped,,13
+Drought,"Vijayawada, Andhra Pradesh",South India,2024-12-21 17:34:00,Critical,Resolved,Evacuation,87.1,20
+Drought,"Surat, Gujarat",West India,2024-12-21 21:33:00,Normal,Resolved,Missing Person,196.3,18
+Cyclone,"Pune, Maharashtra",West India,2024-12-22 10:44:00,Normal,Resolved,Missing Person,227.6,12
+Drought,"Nellore, Andhra Pradesh",South India,2024-12-22 13:51:00,Critical,Cancelled,Power Failure,,16
+Cyclone,"Pune, Maharashtra",West India,2024-12-23 06:26:00,Normal,Resolved,Evacuation,20.3,19
+Drought,"Korba, Chhattisgarh",Central India,2024-12-23 08:20:00,Normal,Resolved,Medical Emergency,255.7,22
+Drought,"Korba, Chhattisgarh",Central India,2024-12-23 20:53:00,Normal,Resolved,Stranded,112.6,1
+Cyclone,"Pune, Maharashtra",West India,2024-12-24 06:33:00,Normal,Cancelled,Missing Person,,1
+Cyclone,"Pune, Maharashtra",West India,2024-12-24 19:52:00,Normal,Resolved,Medical Emergency,139,5
+Drought,"Surat, Gujarat",West India,2024-12-25 01:10:00,Normal,Resolved,Trapped,186.2,2
+Drought,"Nellore, Andhra Pradesh",South India,2024-12-25 23:26:00,Normal,Resolved,Medical Emergency,63.1,13
+Cyclone,"Ponda, Goa",West India,2024-12-25 23:35:00,Normal,Resolved,Food & Water,155,1
+Cyclone,"Pune, Maharashtra",West India,2024-12-26 06:31:00,Normal,Cancelled,Missing Person,,12
+Earthquake,"Jabalpur, Madhya Pradesh",Central India,2024-12-26 15:40:00,Normal,Cancelled,Missing Person,,17
+Cyclone,"Ponda, Goa",West India,2024-12-26 21:15:00,Normal,Resolved,Trapped,116.3,8
+Earthquake,"Jabalpur, Madhya Pradesh",Central India,2024-12-27 12:36:00,Normal,Resolved,Food & Water,245.9,2
+Cyclone,"Ponda, Goa",West India,2024-12-29 01:40:00,Normal,Cancelled,Power Failure,,12
+Cyclone,"Ponda, Goa",West India,2024-12-29 12:38:00,Normal,Cancelled,Evacuation,,4
+Cyclone,"Ponda, Goa",West India,2024-12-29 14:29:00,Normal,Cancelled,Medical Emergency,,12
+Cold Wave,"Kullu, Himachal Pradesh",North India,2025-01-04 06:19:00,Normal,Resolved,Stranded,201.2,5
+Cold Wave,"Kullu, Himachal Pradesh",North India,2025-01-04 09:17:00,Critical,Cancelled,Trapped,,19
+Earthquake,"Cooch Behar, West Bengal",East India,2025-01-04 13:15:00,Normal,Cancelled,Missing Person,,5
+Cold Wave,"Kullu, Himachal Pradesh",North India,2025-01-05 15:38:00,Normal,Resolved,Trapped,40.3,16
+Cold Wave,"Pasighat, Arunachal Pradesh",Northeast India,2025-01-06 10:02:00,Normal,Resolved,Evacuation,209.5,18
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-06 14:15:00,Normal,Resolved,Evacuation,260.6,2
+Earthquake,"Cooch Behar, West Bengal",East India,2025-01-06 14:58:00,Normal,Resolved,Trapped,108.1,11
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-06 23:41:00,Normal,Resolved,Power Failure,195.9,4
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-08 02:14:00,Critical,Resolved,Power Failure,69.8,13
+Cold Wave,"Kullu, Himachal Pradesh",North India,2025-01-08 12:53:00,Normal,Cancelled,Power Failure,,21
+Cold Wave,"Pasighat, Arunachal Pradesh",Northeast India,2025-01-08 13:14:00,Critical,Resolved,Trapped,128.4,22
+Cold Wave,"Kullu, Himachal Pradesh",North India,2025-01-08 17:38:00,Normal,Resolved,Power Failure,180,21
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-08 17:49:00,Normal,Resolved,Power Failure,101.1,18
+Earthquake,"Cooch Behar, West Bengal",East India,2025-01-10 00:20:00,Normal,Resolved,Trapped,237.3,3
+Cold Wave,"Pasighat, Arunachal Pradesh",Northeast India,2025-01-10 11:24:00,Normal,Cancelled,Missing Person,,15
+Cold Wave,"Korba, Chhattisgarh",Central India,2025-01-12 02:18:00,Normal,Resolved,Stranded,189.8,3
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-12 07:34:00,Normal,Resolved,Power Failure,161.8,3
+Cold Wave,"Darbhanga, Bihar",East India,2025-01-12 18:38:00,Critical,Resolved,Missing Person,34.5,18
+Cold Wave,"Korba, Chhattisgarh",Central India,2025-01-13 23:06:00,Normal,Resolved,Medical Emergency,148.1,24
+Cold Wave,"Korba, Chhattisgarh",Central India,2025-01-14 19:18:00,Critical,Resolved,Medical Emergency,72.5,23
+Cold Wave,"Jammu, Jammu & Kashmir",North India,2025-01-18 07:02:00,Normal,Cancelled,Evacuation,,23
+Cold Wave,"Silchar, Assam",Northeast India,2025-01-19 00:32:00,Normal,Cancelled,Missing Person,,21
+Cold Wave,"Jammu, Jammu & Kashmir",North India,2025-01-19 12:37:00,Critical,Resolved,Missing Person,10.8,3
+Cold Wave,"Silchar, Assam",Northeast India,2025-01-19 13:50:00,Normal,Resolved,Missing Person,189.6,10
+Cold Wave,"Bhubaneswar, Odisha",East India,2025-01-20 00:32:00,Normal,Resolved,Power Failure,54.7,16
+Cold Wave,"Jammu, Jammu & Kashmir",North India,2025-01-20 08:32:00,Normal,Cancelled,Medical Emergency,,1
+Cold Wave,"Silchar, Assam",Northeast India,2025-01-20 09:42:00,Normal,Cancelled,Evacuation,,3
+Cold Wave,"Bhubaneswar, Odisha",East India,2025-01-22 08:24:00,Normal,Resolved,Stranded,36.5,18
+Cold Wave,"Patiala, Punjab",North India,2025-01-22 14:11:00,Normal,Resolved,Medical Emergency,30.6,10
+Cold Wave,"Silchar, Assam",Northeast India,2025-01-22 20:13:00,Normal,Cancelled,Power Failure,,9
+Cold Wave,"Silchar, Assam",Northeast India,2025-01-23 19:57:00,Normal,Resolved,Power Failure,82.3,7
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2025-01-25 00:14:00,Normal,Cancelled,Trapped,,6
+Cold Wave,"Jodhpur, Rajasthan",North India,2025-01-25 01:50:00,Normal,Cancelled,Power Failure,,14
+Cold Wave,"Patiala, Punjab",North India,2025-01-25 04:40:00,Normal,Resolved,Stranded,143.9,18
+Cold Wave,"Jodhpur, Rajasthan",North India,2025-01-25 10:45:00,Normal,Resolved,Medical Emergency,168,17
+Cold Wave,"Namchi, Sikkim",Northeast India,2025-01-25 11:41:00,Critical,Cancelled,Food & Water,,20
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-01-26 16:21:00,Normal,Resolved,Evacuation,257.5,21
+Cold Wave,"Varanasi, Uttar Pradesh",North India,2025-01-27 19:57:00,Normal,Resolved,Evacuation,145.5,24
+Cold Wave,"Jodhpur, Rajasthan",North India,2025-01-28 23:58:00,Normal,Cancelled,Medical Emergency,,24
+Cold Wave,"Jowai, Meghalaya",Northeast India,2025-02-01 14:35:00,Critical,Cancelled,Stranded,,20
+Cold Wave,"Jowai, Meghalaya",Northeast India,2025-02-02 07:09:00,Normal,Cancelled,Evacuation,,10
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2025-02-03 07:05:00,Normal,Cancelled,Trapped,,8
+Cold Wave,"Bilaspur, Chhattisgarh",Central India,2025-02-03 18:16:00,Normal,Cancelled,Power Failure,,21
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-05 12:01:00,Normal,Cancelled,Stranded,,24
+Drought,"Tawang, Arunachal Pradesh",Northeast India,2025-02-05 15:37:00,Normal,Cancelled,Evacuation,,8
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-06 07:22:00,Critical,Cancelled,Trapped,,21
+Cold Wave,"Jowai, Meghalaya",Northeast India,2025-02-06 18:10:00,Normal,Cancelled,Power Failure,,24
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-07 11:25:00,Normal,Cancelled,Medical Emergency,,9
+Cold Wave,"Bilaspur, Chhattisgarh",Central India,2025-02-07 19:17:00,Critical,Resolved,Evacuation,110.3,12
+Drought,"Thrissur, Kerala",South India,2025-02-08 01:34:00,Normal,Cancelled,Evacuation,,22
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-08 03:15:00,Normal,Resolved,Trapped,227.4,7
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-08 16:44:00,Critical,Resolved,Missing Person,50.9,6
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-09 06:59:00,Critical,Resolved,Missing Person,29.1,23
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-09 09:26:00,Normal,Resolved,Food & Water,28.2,16
+Drought,"Bhopal, Madhya Pradesh",Central India,2025-02-09 22:03:00,Critical,Cancelled,Evacuation,,13
+Drought,"Thrissur, Kerala",South India,2025-02-10 11:45:00,Normal,Resolved,Power Failure,202.3,17
+Drought,"Thrissur, Kerala",South India,2025-02-10 20:38:00,Normal,Cancelled,Stranded,,21
+Drought,"Varanasi, Uttar Pradesh",North India,2025-02-11 22:07:00,Normal,Resolved,Evacuation,157.9,24
+Drought,"Thrissur, Kerala",South India,2025-02-12 05:17:00,Normal,Resolved,Food & Water,99.3,13
+Drought,"Varanasi, Uttar Pradesh",North India,2025-02-13 18:12:00,Normal,Resolved,Medical Emergency,133.2,10
+Drought,"Nellore, Andhra Pradesh",South India,2025-02-17 07:30:00,Normal,Resolved,Stranded,84.2,2
+Wildfire,"Pune, Maharashtra",West India,2025-02-18 19:26:00,Normal,Cancelled,Medical Emergency,,10
+Drought,"Nellore, Andhra Pradesh",South India,2025-02-19 01:26:00,Normal,Cancelled,Missing Person,,8
+Drought,"Barmer, Rajasthan",North India,2025-02-20 11:20:00,Normal,Cancelled,Trapped,,16
+Drought,"Nellore, Andhra Pradesh",South India,2025-02-20 15:44:00,Normal,Resolved,Medical Emergency,244.3,14
+Drought,"Barmer, Rajasthan",North India,2025-02-21 00:56:00,Critical,Cancelled,Medical Emergency,,7
+Drought,"Barmer, Rajasthan",North India,2025-02-21 06:59:00,Normal,Cancelled,Power Failure,,22
+Drought,"Nellore, Andhra Pradesh",South India,2025-02-21 09:21:00,Normal,Cancelled,Evacuation,,23
+Wildfire,"Tura, Meghalaya",Northeast India,2025-02-21 09:37:00,Critical,Resolved,Medical Emergency,129.5,6
+Drought,"Barmer, Rajasthan",North India,2025-02-21 16:13:00,Normal,Cancelled,Trapped,,16
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-02-21 16:31:00,Normal,Resolved,Power Failure,224.8,6
+Drought,"Barmer, Rajasthan",North India,2025-02-21 17:42:00,Critical,Resolved,Missing Person,97.6,15
+Drought,"Barmer, Rajasthan",North India,2025-02-21 17:50:00,Normal,Resolved,Food & Water,63.9,12
+Drought,"Barmer, Rajasthan",North India,2025-02-22 01:27:00,Normal,Resolved,Evacuation,180.4,20
+Wildfire,"Tura, Meghalaya",Northeast India,2025-02-22 11:59:00,Normal,Cancelled,Stranded,,18
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-02-22 20:40:00,Normal,Cancelled,Evacuation,,1
+Drought,"Nellore, Andhra Pradesh",South India,2025-02-22 21:38:00,Normal,Cancelled,Stranded,,18
+Drought,"Barmer, Rajasthan",North India,2025-02-23 09:51:00,Critical,Cancelled,Medical Emergency,,24
+Drought,"Barmer, Rajasthan",North India,2025-02-23 17:05:00,Critical,Cancelled,Medical Emergency,,19
+Cold Wave,"Barmer, Rajasthan",North India,2025-02-24 06:56:00,Normal,Resolved,Missing Person,171.4,8
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-02-24 08:29:00,Normal,Cancelled,Power Failure,,10
+Cold Wave,"Gwalior, Madhya Pradesh",Central India,2025-02-24 10:55:00,Critical,Resolved,Evacuation,74.1,22
+Cold Wave,"Gorakhpur, Uttar Pradesh",North India,2025-02-24 15:34:00,Critical,Resolved,Missing Person,95.9,16

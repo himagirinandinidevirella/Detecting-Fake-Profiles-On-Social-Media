@@ -1,6 +1,6 @@
 import { useState, type ReactNode } from 'react';
 import { NAV, default as Sidebar } from './Sidebar';
-import { useTheme } from '../hooks/useTheme';
+import { THEMES, useTheme, type ThemeName } from '../hooks/useTheme';
 import { ThemeContext } from './ChartView';
 
 interface Props {
@@ -12,7 +12,7 @@ interface Props {
 
 export default function Layout({ title, subtitle, children, actions }: Props) {
   const [open, setOpen] = useState(false);
-  const { theme, appliedTheme, toggle } = useTheme();
+  const { theme, appliedTheme, set } = useTheme();
   const current = NAV.find((n) => n.to === (window.location.pathname === '/' ? '/' : `/${window.location.pathname.split('/')[1]}`));
 
   return (
@@ -29,9 +29,16 @@ export default function Layout({ title, subtitle, children, actions }: Props) {
             <div className="topbar-spacer" />
             {actions}
             <span className="chip live">Live data</span>
-            <button className="icon-btn" onClick={toggle} title="Switch theme">
-              {theme === 'dark' ? '🌙 Dark' : '☀️ Light'}
-            </button>
+            <select
+              className="icon-btn"
+              value={theme}
+              onChange={(e) => set(e.target.value as ThemeName)}
+              title="Colour theme"
+              aria-label="Colour theme"
+              style={{ cursor: 'pointer' }}
+            >
+              {THEMES.map((t) => <option key={t.id} value={t.id}>{t.label}</option>)}
+            </select>
           </header>
           <div className="page">{children}</div>
           <footer className="footer">

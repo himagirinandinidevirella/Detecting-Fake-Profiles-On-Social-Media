@@ -5,7 +5,9 @@ import { buildChartData, buildChartOptions } from '../lib/charts';
 import EmptyState from './EmptyState';
 import Heatmap from './Heatmap';
 
-export const ThemeContext = createContext<'dark' | 'light'>('dark');
+import type { ThemeName } from '../hooks/useTheme';
+
+export const ThemeContext = createContext<ThemeName>('midnight');
 
 const GLYPHS: Record<string, string> = {
   line: '📈', area: '📉', bar: '📊', donut: '🍩', pie: '🥧', scatter: '🎯', heatmap: '🔥',

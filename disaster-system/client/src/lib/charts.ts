@@ -25,12 +25,13 @@ export const PALETTE = [
   '#e879f9', '#f43f5e',
 ];
 
-export const SEVERITY_COLORS: Record<string, string> = {
-  Low: '#34d399',
-  Moderate: '#38bdf8',
-  High: '#f59e0b',
-  Critical: '#fb5a5a',
-  Unknown: '#94a3b8',
+/** Fallbacks used when a CSS variable is unavailable (SSR, first paint). */
+const SEVERITY_VARS: Record<string, { css: string; fallback: string }> = {
+  Low: { css: '--sev-low', fallback: '#34d399' },
+  Moderate: { css: '--sev-moderate', fallback: '#38bdf8' },
+  High: { css: '--sev-high', fallback: '#f59e0b' },
+  Critical: { css: '--sev-critical', fallback: '#fb5a5a' },
+  Unknown: { css: '--text-faint', fallback: '#94a3b8' },
 };
 
 export const STATUS_COLORS: Record<string, string> = {
@@ -55,10 +56,19 @@ export const STATUS_COLORS: Record<string, string> = {
   Unspecified: '#94a3b8',
 };
 
+/** Severity colour for the active theme (undefined when the label is not a severity). */
+export function severityColor(name: string | undefined): string | undefined {
+  if (!name) return undefined;
+  const entry = SEVERITY_VARS[name];
+  return entry ? cssVar(entry.css, entry.fallback) : undefined;
+}
+
 export function seriesColor(label: string | undefined, index: number): string {
-  if (label && SEVERITY_COLORS[label]) return SEVERITY_COLORS[label];
+  const sev = severityColor(label);
+  if (sev) return sev;
   if (label && STATUS_COLORS[label]) return STATUS_COLORS[label];
-  return PALETTE[index % PALETTE.length];
+  // generic series take the theme's own palette, falling back to PALETTE
+  return cssVar(`--chart-${(index % 6) + 1}`, PALETTE[index % PALETTE.length]);
 }
 
 /** Reads a CSS variable from the active theme. */

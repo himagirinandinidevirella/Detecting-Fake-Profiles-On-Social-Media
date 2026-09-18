@@ -138,8 +138,15 @@ that filter demonstrates the empty state.
 
 ## Design notes
 
-- **Dark / light professional theme** with a single toggle; Chart.js colours, gridlines
-  and tooltips follow the active theme.
+- **Four colour themes**, selected from the toolbar: **Midnight** (default dark),
+  **Daylight** (light), **High Contrast** (pure black, saturated accents) and
+  **Emergency Ops** (dark red control-room). The choice is stored in `localStorage`.
+  Each theme defines its own CSS custom properties — including the chart series palette
+  (`--chart-1..6`) and the severity scale (`--sev-low/moderate/high/critical`) — so
+  Chart.js colours, gridlines, tooltips, heatmaps and the Leaflet basemap
+  (CARTO dark in dark themes, OpenStreetMap in Daylight) all follow the theme.
+  Charts re-render from an `appliedTheme` value that only advances once the
+  `data-theme` attribute is live on `<html>`, so no chart keeps the previous palette.
 - **Responsive**: 12-column chart grid collapses to 6 then 12 columns; the sidebar
   becomes a drawer below 820 px.
 - **Tooltips and legends** on every chart; donuts show value + percentage; scatter plots

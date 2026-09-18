@@ -2,7 +2,7 @@ import { useContext, useEffect, useMemo, useRef, useState } from 'react';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import type { MapCamp, MapPoint, MapSos } from '../lib/api';
-import { SEVERITY_COLORS, STATUS_COLORS, hexAlpha } from '../lib/charts';
+import { STATUS_COLORS, hexAlpha, severityColor as severityCss } from '../lib/charts';
 import { ThemeContext } from './ChartView';
 import { fmtNumber } from '../lib/format';
 
@@ -14,17 +14,25 @@ interface Props {
   showLegend?: boolean;
 }
 
-const severityColor = (s: string) => SEVERITY_COLORS[s] || '#94a3b8';
+const severityColor = (s: string) => severityCss(s) || '#94a3b8';
 
 /** Basemap follows the active theme so the map matches the dashboard. */
-const TILES: Record<'dark' | 'light', { url: string; attribution: string }> = {
-  dark: {
+const TILES: Record<string, { url: string; attribution: string }> = {
+  daylight: {
+    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    attribution: '&copy; OpenStreetMap contributors',
+  },
+  midnight: {
     url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
     attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
   },
-  light: {
-    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-    attribution: '&copy; OpenStreetMap contributors',
+  contrast: {
+    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+  },
+  emergency: {
+    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
   },
 };
 
@@ -73,7 +81,7 @@ export default function MapView({ points, camps = [], sos = [], height = 460, sh
       tilesRef.current = null;
     }
     setTilesOk(true);
-    const cfg = TILES[theme] || TILES.dark;
+    const cfg = TILES[theme] || TILES.midnight;
     const tiles = L.tileLayer(cfg.url, { maxZoom: 18, attribution: cfg.attribution });
     tiles.on('tileerror', () => setTilesOk(false));
     tiles.addTo(map);
